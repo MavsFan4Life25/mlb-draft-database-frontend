@@ -20,7 +20,6 @@ function App() {
     search: "",
   });
 
-  // Range filter state
   const [rangeFilters, setRangeFilters] = useState({
     yearFrom: "",
     yearTo: "",
@@ -60,7 +59,14 @@ function App() {
     if (rangeFilters.pickTo) filteredData = filteredData.filter((row) => Number(row.Pick) <= Number(rangeFilters.pickTo));
     if (filters.team) filteredData = filteredData.filter((row) => row.TeamDrafted === filters.team);
     if (filters.position) filteredData = filteredData.filter((row) => row.Position === filters.position);
-    if (filters.school) filteredData = filteredData.filter((row) => row.School === filters.school);
+    // HS grouping logic for school filter
+    if (filters.school) {
+      if (filters.school === "HS") {
+        filteredData = filteredData.filter((row) => row.School && row.School.includes("HS"));
+      } else {
+        filteredData = filteredData.filter((row) => row.School === filters.school);
+      }
+    }
     if (filters.bat) filteredData = filteredData.filter((row) => row.Bat === filters.bat);
     if (filters.throw) filteredData = filteredData.filter((row) => row.Throw === filters.throw);
     if (filters.age) filteredData = filteredData.filter(
@@ -100,7 +106,7 @@ function App() {
         <img src="/website-2.jpg" alt="Website 2" style={{ width: 200, height: "auto" }} />
       </header>
       <main style={{ maxWidth: 1200, margin: "0 auto", padding: "1rem" }}>
-        <StatsBar filters={filters} rangeFilters={rangeFilters} />
+        <StatsBar data={filtered} />
         <DraftTable
           data={data}
           filtered={filtered}

@@ -17,6 +17,15 @@ function getUnique(data, key) {
 }
 
 function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRangeFilters }) {
+  // School dropdown: group all high schools as 'HS', others as themselves
+  const schoolOptions = [
+    ...new Set(
+      data
+        .map((row) => (row.School && row.School.includes("HS") ? "HS" : row.School))
+        .filter((v) => v && v !== "")
+    ),
+  ];
+
   return (
     <div>
       {/* Filters */}
@@ -96,9 +105,10 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
             <option key={v} value={v}>{v}</option>
           ))}
         </select>
+        {/* Pre-Draft Team dropdown with HS grouping */}
         <select value={filters.school} onChange={(e) => setFilters((f) => ({ ...f, school: e.target.value }))}>
           <option value="">Pre-Draft Team</option>
-          {getUnique(data, "School").map((v) => (
+          {schoolOptions.map((v) => (
             <option key={v} value={v}>{v}</option>
           ))}
         </select>
@@ -160,8 +170,7 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
               <th>Team</th>
               <th>Position</th>
               <th>Age</th>
-              <th>Bat</th>
-              <th>Throw</th>
+              <th>B/T</th>
               <th>Pre-Draft Team</th>
               <th>Slotted Bonus</th>
               <th>Signed Bonus</th>
@@ -179,9 +188,8 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
                 <td>{row.TeamDrafted}</td>
                 <td>{row.Position}</td>
                 <td>{row.AgeAtDraft}</td>
-                <td>{row.Bat}</td>
-                <td>{row.Throw}</td>
-                <td>{row.School}</td>
+                <td>{row.Bat}/{row.Throw}</td>
+                <td>{row.School && row.School.includes("HS") ? "HS" : row.School}</td>
                 <td>{row.SlottedBonus}</td>
                 <td style={{ color: row.SignedBonus === "(unsigned)" ? "#fff" : "#fff" }}>{row.SignedBonus}</td>
                 <td style={{ color: getDiffColor(row.Diff), fontWeight: "bold" }}>{row.Diff}</td>
