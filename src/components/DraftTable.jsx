@@ -21,7 +21,6 @@ const OF_GROUP = ["OF", "CF", "RF", "LF"];
 const P_GROUP = ["P", "SP", "SP1", "RP"];
 
 function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRangeFilters }) {
-  // School dropdown: group all high schools as 'HS', others as themselves, then sort alphabetically
   const schoolOptions = [
     ...new Set(
       data
@@ -30,7 +29,6 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
     ),
   ].sort((a, b) => a.localeCompare(b));
 
-  // Position dropdown: show "OF" and "P" only once, hide sub-positions as separate options
   const positionOptions = [
     "OF",
     "P",
@@ -91,22 +89,7 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
                 <td>{row.TeamDrafted}</td>
                 <td>{row.Position}</td>
                 <td>{row.AgeAtDraft}</td>
-                <td>
-                  {
-                    (() => {
-                      const batKey = Object.keys(row).find(k => k.trim().toLowerCase() === "bat");
-                      return batKey ? row[batKey] : "";
-                    })()
-                  }
-                </td>
-                <td>
-                  {
-                    (() => {
-                      const throwKey = Object.keys(row).find(k => k.trim().toLowerCase() === "throw");
-                      return throwKey ? row[throwKey] : "";
-                    })()
-                  }
-                </td>
+                <td colSpan={2}>{JSON.stringify(Object.keys(row))}</td>
                 <td>{row.School && row.School.includes("HS") ? "HS" : row.School}</td>
                 <td>{row.SlottedBonus}</td>
                 <td style={{ color: row.SignedBonus === "(unsigned)" ? "#fff" : "#fff" }}>{row.SignedBonus}</td>
