@@ -205,7 +205,9 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
                 <td>
                   {row.Bat && row.Throw
                     ? `${row.Bat}/${row.Throw}`
-                    : ""}
+                    : row["B/T"] && row["B/T"].trim() && row["B/T"].replace(/\s+/g, "") !== "/"
+                      ? row["B/T"].replace(/\s+/g, "")
+                      : ""}
                 </td>
                 <td>{row.School && row.School.includes("HS") ? "HS" : row.School}</td>
                 <td>{row.SlottedBonus}</td>
