@@ -58,7 +58,16 @@ function App() {
     if (rangeFilters.pickFrom) filteredData = filteredData.filter((row) => Number(row.Pick) >= Number(rangeFilters.pickFrom));
     if (rangeFilters.pickTo) filteredData = filteredData.filter((row) => Number(row.Pick) <= Number(rangeFilters.pickTo));
     if (filters.team) filteredData = filteredData.filter((row) => row.TeamDrafted === filters.team);
-    if (filters.position) filteredData = filteredData.filter((row) => row.Position === filters.position);
+    // Position filter with OF and P grouping
+    if (filters.position) {
+      if (filters.position === "OF") {
+        filteredData = filteredData.filter((row) => ["OF", "CF", "RF", "LF"].includes(row.Position));
+      } else if (filters.position === "P") {
+        filteredData = filteredData.filter((row) => ["P", "SP", "SP1", "RP"].includes(row.Position));
+      } else {
+        filteredData = filteredData.filter((row) => row.Position === filters.position);
+      }
+    }
     // HS grouping logic for school filter
     if (filters.school) {
       if (filters.school === "HS") {

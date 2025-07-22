@@ -16,6 +16,10 @@ function getUnique(data, key) {
   );
 }
 
+// OF and P groups
+const OF_GROUP = ["OF", "CF", "RF", "LF"];
+const P_GROUP = ["P", "SP", "SP1", "RP"];
+
 function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRangeFilters }) {
   // School dropdown: group all high schools as 'HS', others as themselves, then sort alphabetically
   const schoolOptions = [
@@ -25,6 +29,15 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
         .filter((v) => v && v !== "")
     ),
   ].sort((a, b) => a.localeCompare(b));
+
+  // Position dropdown: show "OF" and "P" only once, hide sub-positions as separate options
+  const positionOptions = [
+    "OF",
+    "P",
+    ...getUnique(data, "Position").filter(
+      v => v && !OF_GROUP.includes(v) && !P_GROUP.includes(v)
+    ),
+  ];
 
   return (
     <div>
@@ -99,9 +112,10 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
             <option key={v} value={v}>{v}</option>
           ))}
         </select>
+        {/* Position Dropdown with OF and P grouping */}
         <select value={filters.position} onChange={(e) => setFilters((f) => ({ ...f, position: e.target.value }))}>
           <option value="">Position</option>
-          {getUnique(data, "Position").map((v) => (
+          {positionOptions.map((v) => (
             <option key={v} value={v}>{v}</option>
           ))}
         </select>
