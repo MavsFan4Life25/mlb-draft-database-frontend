@@ -170,7 +170,7 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
               <th>Team</th>
               <th>Position</th>
               <th>Age</th>
-              <th>B/T</th>
+              <th>Bat/Throw</th>
               <th>Pre-Draft Team</th>
               <th>Slotted Bonus</th>
               <th>Signed Bonus</th>
@@ -191,7 +191,7 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
                 <td>
                   {row.Bat && row.Throw && row.Bat.trim() && row.Throw.trim()
                     ? `${row.Bat}/${row.Throw}`
-                    : (row["B/T"] && row["B/T"].trim() && row["B/T"].trim() !== "/"
+                    : (row["B/T"] && row["B/T"].trim() && row["B/T"].replace(/\s+/g, "") !== "/"
                         ? row["B/T"].replace(/\s+/g, "")
                         : "")}
                 </td>
