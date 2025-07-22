@@ -76,6 +76,7 @@ function App() {
         filteredData = filteredData.filter((row) => row.School === filters.school);
       }
     }
+    // Bat/Throw filtering using separate columns
     if (filters.bat) filteredData = filteredData.filter((row) => row.Bat === filters.bat);
     if (filters.throw) filteredData = filteredData.filter((row) => row.Throw === filters.throw);
     if (filters.age) filteredData = filteredData.filter(

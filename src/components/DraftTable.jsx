@@ -203,8 +203,8 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
                 <td>{row.Position}</td>
                 <td>{row.AgeAtDraft}</td>
                 <td>
-                  {typeof row.BatThrow === "string" && row.BatThrow.trim() && row.BatThrow.trim() !== "/"
-                    ? row.BatThrow.replace(/\s+/g, "")
+                  {row.Bat && row.Throw
+                    ? `${row.Bat}/${row.Throw}`
                     : ""}
                 </td>
                 <td>{row.School && row.School.includes("HS") ? "HS" : row.School}</td>
