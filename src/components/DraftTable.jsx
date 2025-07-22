@@ -79,23 +79,33 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
             </tr>
           </thead>
           <tbody>
-            {filtered.map((row, i) => (
-              <tr key={i}>
-                <td>{row.Year}</td>
-                <td>{row.Round}</td>
-                <td>{row.Pick}</td>
-                <td>{row.RoundPick}</td>
-                <td>{row.Name}</td>
-                <td>{row.TeamDrafted}</td>
-                <td>{row.Position}</td>
-                <td>{row.AgeAtDraft}</td>
-                <td colSpan={2}>{JSON.stringify(Object.keys(row))}</td>
-                <td>{row.School && row.School.includes("HS") ? "HS" : row.School}</td>
-                <td>{row.SlottedBonus}</td>
-                <td style={{ color: row.SignedBonus === "(unsigned)" ? "#fff" : "#fff" }}>{row.SignedBonus}</td>
-                <td style={{ color: getDiffColor(row.Diff), fontWeight: "bold" }}>{row.Diff}</td>
-              </tr>
-            ))}
+            {filtered.map((row, i) => {
+              let bat = "";
+              let throwVal = "";
+              if (row.BatThrow && row.BatThrow.includes("/")) {
+                const parts = row.BatThrow.split("/");
+                bat = parts[0].trim();
+                throwVal = parts[1].trim();
+              }
+              return (
+                <tr key={i}>
+                  <td>{row.Year}</td>
+                  <td>{row.Round}</td>
+                  <td>{row.Pick}</td>
+                  <td>{row.RoundPick}</td>
+                  <td>{row.Name}</td>
+                  <td>{row.TeamDrafted}</td>
+                  <td>{row.Position}</td>
+                  <td>{row.AgeAtDraft}</td>
+                  <td>{bat}</td>
+                  <td>{throwVal}</td>
+                  <td>{row.School && row.School.includes("HS") ? "HS" : row.School}</td>
+                  <td>{row.SlottedBonus}</td>
+                  <td style={{ color: row.SignedBonus === "(unsigned)" ? "#fff" : "#fff" }}>{row.SignedBonus}</td>
+                  <td style={{ color: getDiffColor(row.Diff), fontWeight: "bold" }}>{row.Diff}</td>
+                </tr>
+              );
+            })}
           </tbody>
         </table>
         {filtered.length === 0 && (
