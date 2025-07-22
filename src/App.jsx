@@ -76,9 +76,21 @@ function App() {
         filteredData = filteredData.filter((row) => row.School === filters.school);
       }
     }
-    // Bat/Throw filtering using separate columns
-    if (filters.bat) filteredData = filteredData.filter((row) => row.Bat === filters.bat);
-    if (filters.throw) filteredData = filteredData.filter((row) => row.Throw === filters.throw);
+    // Robust Bat/Throw filtering
+    if (filters.bat) {
+      filteredData = filteredData.filter(
+        (row) =>
+          (row.Bat && row.Bat.trim().toUpperCase() === filters.bat.toUpperCase()) ||
+          (row.BatThrow && row.BatThrow.split("/")[0].trim().toUpperCase() === filters.bat.toUpperCase())
+      );
+    }
+    if (filters.throw) {
+      filteredData = filteredData.filter(
+        (row) =>
+          (row.Throw && row.Throw.trim().toUpperCase() === filters.throw.toUpperCase()) ||
+          (row.BatThrow && row.BatThrow.split("/")[1].trim().toUpperCase() === filters.throw.toUpperCase())
+      );
+    }
     if (filters.age) filteredData = filteredData.filter(
       (row) => String(row.AgeAtDraft).trim() === String(filters.age).trim()
     );
