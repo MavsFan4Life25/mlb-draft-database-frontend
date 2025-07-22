@@ -1,0 +1,2431 @@
+Round,Pick,Team,,Player,Pos,Age,B/T,Pre-Draft Team,Slotted Bonus,Signed Bonus,+/- Diff
+1,1,PIT,,Henry Davis,C,21,/,"CO
+                    
+                    
+                    Louisville","$8,415,300","$6,500,000","$1,915,300"
+1,2,TEX,,Jack Leiter,SP,21,/,"CO
+                    
+                    
+                    Vanderbilt (TN)","$7,789,900","$7,922,000","-$132,100"
+1,3,DET,,Jackson Jobe,P,18,/,"HS
+                    
+                    
+                    Hertiage Hall HS (OK)","$7,221,200","$6,900,000","$321,200"
+1,4,BOS,,Marcelo Mayer,SS,18,/,"HS
+                    
+                    
+                    Eastlake HS (CA)","$6,664,000","$6,664,000",
+1,5,BAL,,Colton Cowser,OF,21,/,"CO
+                    
+                    
+                    Sam Houston State (TX)","$6,180,700","$4,900,000","$1,280,700"
+1,6,ARI,,Jordan Lawlar,SS,19,R / R,"HS
+                    
+                    
+                    Jesuit College Prep (TX)","$5,742,900","$6,713,300","-$970,400"
+1,7,KC,,Frank Mozzicato,P,18,/,"HS
+                    
+                    
+                    East Catholic HS (CT)","$5,432,400","$3,547,500","$1,884,900"
+1,8,COL,,Benny Montgomery,OF,18,/,"HS
+                    
+                    
+                    Red Land HS (PA)","$5,176,900","$5,000,000","$176,900"
+1,9,LAA,,Sam Bachman,P,21,/,"CO
+                    
+                    
+                    Miami (OH)","$4,949,100","$3,847,500","$1,101,600"
+1,10,NYM,,Kumar Rocker,P,21,/,"CO
+                    
+                    
+                    Vanderbilt (TN)","$4,739,900",Unsigned,
+1,11,WSH,,Brady House,SS,18,/,"HS
+                    
+                    
+                    Winder-Barrow HS (GA)","$4,547,500","$5,000,000","-$452,500"
+1,12,SEA,,Harry Ford,C,18,/,"HS
+                    
+                    
+                    North Cobb HS (GA)","$4,366,400","$4,366,400",
+1,13,PHI,,Andrew Painter,P,18,/,"HS
+                    
+                    
+                    Calvary Christian HS (FL)","$4,197,300","$3,900,000","$297,300"
+1,14,SF,,Will Bednar,P,21,/,"CO
+                    
+                    
+                    Mississippi State","$4,036,800","$3,647,500","$389,300"
+1,15,MIL,,Sal Frelick,SS,21,/,"CO
+                    
+                    
+                    Boston College (MA)","$3,885,800","$4,000,000","-$114,200"
+1,16,MIA,,Khalil Watson,SS,18,/,"HS
+                    
+                    
+                    Wake Forest HS (NC)","$3,745,500","$4,540,790","-$795,290"
+1,17,CIN,,Matt McLain,SS,21,/,"CO
+                    
+                    
+                    California-Los Angeles","$3,609,700","$4,625,000","-$1,015,300"
+1,18,STL,,Michael McGreevy,P,21,/,"CO
+                    
+                    
+                    California-Santa Barbara","$3,481,300","$2,750,000","$731,300"
+1,19,TOR,,Gunnar Hoglund,P,21,/,"CO
+                    
+                    
+                    Mississippi","$3,359,000","$3,247,500","$111,500"
+1,20,NYY,,Trey Sweeney,SS,21,/,"CO
+                    
+                    
+                    Eastern Illinois","$3,242,900","$3,000,000","$242,900"
+1,21,CHC,,Jordan Wicks,P,21,/,"CO
+                    
+                    
+                    Kansas State","$3,132,300","$3,132,300",
+1,22,CHW,,Colson Montgomery,SS,19,/,"HS
+                    
+                    
+                    Southridge HS (IN)","$3,027,000","$3,027,000",
+1,23,CLE,,Gavin Williams,P,21,L / R,"CO
+                    
+                    
+                    East Carolina (NC)","$2,926,800","$2,250,000","$676,800"
+1,24,ATL,,Ryan Cusick,P,21,/,"CO
+                    
+                    
+                    Wake Forest (NC)","$2,831,300","$2,700,000","$131,300"
+1,25,OAK,,Max Muncy,SS,18,/,"HS
+                    
+                    
+                    Thousand Oaks HS (CA)","$2,740,300","$2,850,000","-$109,700"
+1,26,MIN,,Chase Petty,P,18,/,"HS
+                    
+                    
+                    Mainland Regional HS (NJ)","$2,653,400","$2,500,000","$153,400"
+1,27,SD,,Jackson Merrill,SS,18,/,"HS
+                    
+                    
+                    Severna Park HS (MD)","$2,570,100","$1,800,000","$770,100"
+1,28,TB,,Carson Williams,SS,18,/,"HS
+                    
+                    
+                    Torrey Pines HS (CA)","$2,493,900","$2,347,500","$146,400"
+1,29,LAD,,Maddux Bruns,P,19,/,"HS
+                    
+                    
+                    UMS-Wright Prep (AL)","$2,424,600","$2,197,500","$227,100"
+1,30,CIN,Comp.,Jay Allen II,OF,18,/,"HS
+                    
+                    
+                    Carroll Catholic HS (FL)","$2,365,500","$2,397,500","-$32,000"
+1,31,MIA,Comp. Bal.,Joe Mack,C,18,/,"HS
+                    
+                    
+                    Williamsville East HS (NY)","$2,312,000","$2,500,000","-$188,000"
+1,32,DET,Comp. Bal.,Ty Madden,P,21,/,"CO
+                    
+                    
+                    Texas","$2,257,300","$2,500,000","-$242,700"
+1,33,MIL,Comp. Bal.,Tyler Black,2B,20,/,"CO
+                    
+                    
+                    Wright State (OH)","$2,202,200","$2,202,200",
+1,34,TB,Comp. Bal.,Cooper Kinney,2B,18,/,"HS
+                    
+                    
+                    Baylor HS (TN)","$2,148,100","$2,145,600","$2,500"
+1,35,CIN,Comp. Bal.,Mat Nelson,C,22,/,"CO
+                    
+                    
+                    Florida State","$2,095,800","$2,093,300","$2,500"
+1,36,MIN,Comp. Bal.,Noah Miller,SS,18,/,"HS
+                    
+                    
+                    Ozaukee HS (WI)","$2,045,400","$1,700,000","$345,400"
+2,37,PIT,,Anthony Solometo,P,18,/,"HS
+                    
+                    
+                    Bishop Eustace Prep HS (NJ)","$1,999,300","$2,797,500","-$798,200"
+2,38,TEX,,Aaron Zavala,OF,21,/,"CO
+                    
+                    
+                    Oregon","$1,952,300","$830,000","$1,122,300"
+2,39,DET,,Izaac Pacheco,SS,18,/,"HS
+                    
+                    
+                    Friendswood HS (TX)","$1,906,800","$2,750,000","-$843,200"
+2,40,BOS,,Jud Fabian,OF,20,/,"CO
+                    
+                    
+                    Florida","$1,856,700",Unsigned,
+2,41,BAL,,Connor Norby,2B,21,/,"CO
+                    
+                    
+                    East Carolina (NC)","$1,813,500","$1,700,000","$113,500"
+2,42,ARI,,Ryan Bliss,SS,21,R / R,"CO
+                    
+                    
+                    Auburn (AL)","$1,771,100","$1,250,000","$521,100"
+2,43,KC,,Ben Kudrna,P,18,/,"HS
+                    
+                    
+                    Blue Valley Southwest HS (KS)","$1,729,800","$2,997,500","-$1,267,700"
+2,44,COL,,Jaden Hill,P,21,/,"CO
+                    
+                    
+                    Louisiana State","$1,689,500","$1,689,500",
+2,45,LAA,,Ky Bush,P,21,/,"CO
+                    
+                    
+                    St. Mary's College (CA)","$1,650,200","$1,747,500","-$97,300"
+2,46,NYM,,Calvin Ziegler,P,18,/,"HS
+                    
+                    
+                    TNXL Academy (FL)","$1,617,400","$910,000","$707,400"
+2,47,WSH,,Daylen Lile,OF,18,/,"HS
+                    
+                    
+                    Trinity HS (KY)","$1,580,200","$1,750,000","-$169,800"
+2,48,SEA,,Edwin Arroyo,SS,17,S / R,Central Pointe Christian Academy (F...,"$1,543,600","$1,650,000","-$106,400"
+2,49,PHI,,Ethan Wilson,OF,21,/,"CO
+                    
+                    
+                    South Alabama","$1,507,600","$1,507,600",
+2,50,SF,,Matt Mikulski,P,22,/,"CO
+                    
+                    
+                    Fordham","$1,469,900","$1,197,500","$272,400"
+2,51,MIL,,Russell Smith,P,22,/,"CO
+                    
+                    
+                    Texas Christian","$1,436,900","$1,000,000","$436,900"
+2,52,MIA,,Cody Morissette,SS,21,/,"CO
+                    
+                    
+                    Boston College (MA)","$1,403,200","$1,403,200",
+2,53,CIN,,Andrew Abbott,P,22,/,"CO
+                    
+                    
+                    Virginia","$1,370,400","$1,300,000","$70,400"
+2,54,STL,,Joshua Baez,OF,18,/,"HS
+                    
+                    
+                    Dexter Southfield HS (MA)","$1,338,500","$2,250,000","-$911,500"
+2,55,NYY,,Brendan Beck,P,22,/,"CO
+                    
+                    
+                    Stanford (CA)","$1,307,000","$1,050,000","$257,000"
+2,56,CHC,,James Triantos,3B,18,/,"HS
+                    
+                    
+                    Madison HS (VA)","$1,276,400","$2,100,000","-$823,600"
+2,57,CHW,,Wes Kath,3B,18,/,"HS
+                    
+                    
+                    Desert Mountain HS (AZ)","$1,243,600","$1,800,000","-$556,400"
+2,58,CLE,,Doug Nikhazy,P,21,/,"CO
+                    
+                    
+                    Mississippi","$1,214,300","$1,200,000","$14,300"
+2,59,ATL,,Spencer Schwellenbach,P,21,/,"CO
+                    
+                    
+                    Nebraska","$1,185,500","$997,500","$188,000"
+2,60,OAK,,Zack Gelof,3B,21,/,"CO
+                    
+                    
+                    Virginia","$1,157,400","$1,157,400",
+2,61,MIN,,Steven Hajjar,P,20,/,"CO
+                    
+                    
+                    Michigan","$1,129,700","$1,129,700",
+2,62,SD,,James Wood,OF,18,/,"HS
+                    
+                    
+                    IMG Academy (FL)","$1,102,700","$2,600,000","-$1,497,300"
+2,63,TB,,Kyle Manzardo,1B,21,/,"CO
+                    
+                    
+                    Washington State","$1,076,300","$747,500","$328,800"
+2,64,PIT,Comp. Bal.,"Lonnie White, Jr.",OF,18,/,"HS
+                    
+                    
+                    Malvern Prep HS (PA)","$1,050,300","$1,500,000","-$449,700"
+2,65,BAL,Comp. Bal.,Reed Trimble,OF,21,/,"CO
+                    
+                    
+                    Southern Mississippi","$1,025,100","$800,000","$225,100"
+2,66,KC,Comp. Bal.,Peyton Wilson,2B,21,/,"CO
+                    
+                    
+                    Alabama","$1,003,300","$1,000,800","$2,500"
+2,67,ARI,Comp. Bal.,Adrian Del Castillo,C,21,L / R,"CO
+                    
+                    
+                    Miami (FL)","$976,700","$1,000,000","-$23,300"
+2,68,COL,Comp. Bal.,Joe Rock,P,20,/,"CO
+                    
+                    
+                    Ohio","$953,100","$953,100",
+2,69,CLE,Comp. Bal.,Tommy Mace,P,22,/,"CO
+                    
+                    
+                    Florida","$929,800","$1,100,000","-$170,200"
+2,70,STL,Comp. Bal.,Ryan Holgate,OF,21,/,"CO
+                    
+                    
+                    Arizona","$906,800","$875,000","$31,800"
+2,71,SD,Comp. Bal.,Robert Gasser,P,22,/,"CO
+                    
+                    
+                    Houston","$884,200","$884,200",
+3,72,PIT,,Bubba Chandler,P,18,/,"HS
+                    
+                    
+                    North Oconee HS (GA)","$870,700","$3,000,000","-$2,129,300"
+3,73,TEX,,Cameron Cauley,SS,18,/,"HS
+                    
+                    
+                    Barbers Hill HS (TX)","$857,400","$1,000,000","-$142,600"
+3,74,DET,,Dylan Smith,P,21,/,"CO
+                    
+                    
+                    Alabama","$844,200","$1,115,000","-$270,800"
+3,75,BOS,,Tyler McDonough,2B,22,/,"CO
+                    
+                    
+                    North Carolina State","$831,100","$828,600","$2,500"
+3,76,BAL,,John Rhodes,OF,20,/,"CO
+                    
+                    
+                    Kentucky","$818,200","$1,375,000","-$556,800"
+3,77,ARI,,Jacob Steinmetz,P,18,R / R,"HS
+                    
+                    
+                    ELEV8 Baseball Academy (FL)","$805,600","$500,000","$305,600"
+3,78,KC,,Carter Jensen,C,18,/,"HS
+                    
+                    
+                    Park Hill Senior HS (MO)","$793,000","$1,097,500","-$304,500"
+3,79,COL,,McCade Brown,P,21,/,"CO
+                    
+                    
+                    Indiana","$780,400","$780,400",
+3,80,LAA,,Landon Marceaux,P,21,/,"CO
+                    
+                    
+                    Louisiana State","$767,800","$765,300","$2,500"
+3,81,NYM,,Dominic Hamel,P,22,/,"CO
+                    
+                    
+                    Dallas Baptist (TX)","$755,300","$755,300",
+3,82,WSH,,Branden Boissiere,OF,21,/,"CO
+                    
+                    
+                    Arizona","$744,200","$600,000","$144,200"
+3,83,SEA,,Michael Morales,P,18,/,"HS
+                    
+                    
+                    East Pennsboro HS (PA)","$733,100","$1,500,000","-$766,900"
+3,84,PHI,,Jordan Viars,OF,18,/,"HS
+                    
+                    
+                    Reedy HS (TX)","$721,900","$747,500","-$25,600"
+3,85,SF,,Mason Black,P,21,/,"CO
+                    
+                    
+                    Lehigh","$710,700","$708,200","$2,500"
+3,86,MIL,,Alex Binelas,3B,21,/,"CO
+                    
+                    
+                    Louisville","$699,700","$700,000",-$300
+3,87,HOU,,Tyler Whitaker,OF,18,/,"HS
+                    
+                    
+                    Bishop Gorman HS (NV)","$689,300","$1,500,000","-$810,700"
+3,88,MIA,,Jordan McCants,SS,19,/,"HS
+                    
+                    
+                    Pensacola Catholic HS (FL)","$678,600","$800,000","-$121,400"
+3,89,CIN,,Jose Torres,SS,21,/,"CO
+                    
+                    
+                    North Carolina State","$667,900","$622,500","$45,400"
+3,90,STL,,Austin Love,P,22,/,"CO
+                    
+                    
+                    North Carolina","$657,600","$600,000","$57,600"
+3,91,TOR,,Ricky Tiedemann,P,18,/,"JC
+                    
+                    
+                    Golden West JC (CA)","$647,300","$644,800","$2,500"
+3,92,NYY,,Brock Selvidge,P,18,/,"HS
+                    
+                    
+                    Hamilton HS (AZ)","$637,600","$1,500,000","-$862,400"
+3,93,CHC,,Drew Gray,P,18,/,"HS
+                    
+                    
+                    IMG Academy (FL)","$627,900","$900,000","-$272,100"
+3,94,CHW,,Sean Burke,P,21,/,"CO
+                    
+                    
+                    Maryland","$618,200","$900,000","-$281,800"
+3,95,CLE,,Jake Fox,SS,18,/,"HS
+                    
+                    
+                    Lakeland Christian HS (FL)","$610,800","$850,000","-$239,200"
+3,96,ATL,,Dylan Dodd,P,23,/,"CO
+                    
+                    
+                    Southeast Missouri State","$604,800","$122,500","$482,300"
+3,97,OAK,,Mason Miller,P,22,/,"CO
+                    
+                    
+                    Gardner-Webb (NC)","$599,100","$599,100",
+3,98,MIN,,Cade Povich,P,21,/,"CO
+                    
+                    
+                    Nebraska","$593,100","$500,000","$93,100"
+3,99,SD,,Kevin Kopps,P,24,/,"CO
+                    
+                    
+                    Arkansas","$587,400","$300,000","$287,400"
+3,100,TB,,Ryan Spikes,2B,18,/,"HS
+                    
+                    
+                    Parkview HS (GA)","$581,600","$1,097,500","-$515,900"
+3,101,LAD,,Peter Heubeck,P,18,/,"HS
+                    
+                    
+                    Gilman HS (MD)","$577,000","$1,272,000","-$695,000"
+4,102,PIT,,Owen Kellington,P,18,/,"HS
+                    
+                    
+                    U-32 HS (VT)","$571,400","$600,000","-$28,600"
+4,103,TEX,,Ian Moller,C,18,/,"HS
+                    
+                    
+                    Wahlert Catholic HS (IA)","$565,600","$700,000","-$134,400"
+4,104,DET,,Tyler Mattison,P,21,/,"CO
+                    
+                    
+                    Bryant (RI)","$560,000","$400,000","$160,000"
+4,105,BOS,,Elmer Rodriguez-Cruz,P,17,L / R,"HS
+                    
+                    
+                    Leadership Christian Academy (PR)","$554,300","$497,500","$56,800"
+4,106,BAL,,Donta' Williams,OF,22,L / L,"CO
+                    
+                    
+                    Arizona","$549,000","$400,000","$149,000"
+4,107,ARI,,Chad Patrick,P,22,R / R,"CO
+                    
+                    
+                    Purdue","$543,500","$350,000","$193,500"
+4,108,KC,,Shane Panzini,P,19,/,"HS
+                    
+                    
+                    Red Bank Catholic HS (NJ)","$538,200","$997,500","-$459,300"
+4,109,COL,,Hunter Goodman,C,21,/,"CO
+                    
+                    
+                    Memphis","$533,000","$600,000","-$67,000"
+4,110,LAA,,Luke Murphy,P,21,/,"CO
+                    
+                    
+                    Vanderbilt (TN)","$527,800","$747,500","-$219,700"
+4,111,NYM,,JT Schwartz,1B,21,/,"CO
+                    
+                    
+                    California-Los Angeles","$522,600","$475,000","$47,600"
+4,112,WSH,,Dustin Saenz,P,22,/,"CO
+                    
+                    
+                    Texas A&M","$517,400","$500,000","$17,400"
+4,113,SEA,,Bryce Miller,P,22,/,"CO
+                    
+                    
+                    Texas A&M","$512,400","$400,000","$112,400"
+4,114,PHI,,Micah Ottenbreit,P,18,/,"HS
+                    
+                    
+                    Trenton HS (MI)","$507,400","$772,500","-$265,100"
+4,115,SF,,Eric Silva,P,18,/,"HS
+                    
+                    
+                    JSerra Catholic HS (CA)","$502,300","$1,500,000","-$997,700"
+4,116,MIL,,Logan Henderson,P,19,/,"JC
+                    
+                    
+                    McLennan JC (TX)","$497,500","$495,000","$2,500"
+4,117,HOU,,Alex Ulloa,SS,18,/,"HS
+                    
+                    
+                    Calvary Christian HS (FL)","$492,700",Unsigned,
+4,118,MIA,,Tanner Allen,OF,23,/,"CO
+                    
+                    
+                    Mississippi State","$487,900","$247,500","$240,400"
+4,119,CIN,,Ruben Ibarra,1B,22,/,"CO
+                    
+                    
+                    San Jose State","$483,000","$172,500","$310,500"
+4,120,STL,,Zane Mills,P,21,/,"CO
+                    
+                    
+                    Washington State","$478,300","$375,000","$103,300"
+4,121,TOR,,Chad Dallas,P,21,/,"CO
+                    
+                    
+                    Tennessee","$473,700","$497,500","-$23,800"
+4,122,NYY,,Cooper Bowman,2B,21,/,"CO
+                    
+                    
+                    Louisville","$469,000","$353,000","$116,000"
+4,123,CHC,,Christian Franklin,OF,21,/,"CO
+                    
+                    
+                    Arkansas","$464,500","$425,000","$39,500"
+4,124,CHW,,Brooks Gosswein,P,22,/,"CO
+                    
+                    
+                    Bradley (IL)","$460,000","$200,000","$260,000"
+4,125,CLE,,Ryan Webb,P,22,/,"CO
+                    
+                    
+                    Georgia","$455,600","$400,000","$55,600"
+4,126,ATL,,Cal Conley,SS,22,/,"CO
+                    
+                    
+                    Texas Tech","$451,800","$422,500","$29,300"
+4,127,OAK,,Denzel Clarke,OF,21,/,"CO
+                    
+                    
+                    California State-Northridge","$447,400","$700,000","-$252,600"
+4,128,MIN,,Christian Encarnacion-Strand,3B,21,R / R,"CO
+                    
+                    
+                    Oklahoma State","$442,900","$442,900",
+4,129,SD,,Jackson Wolf,P,22,/,"CO
+                    
+                    
+                    West Virginia","$438,700","$300,000","$138,700"
+4,130,TB,,Dru Baker,OF,21,/,"CO
+                    
+                    
+                    Texas Tech","$434,300","$431,800","$2,500"
+4,131,LAD,,Nick Nastrini,P,21,/,"CO
+                    
+                    
+                    California-Los Angeles","$430,800","$497,500","-$66,700"
+4,132,HOU,,Chayce McDermott,P,22,L / R,"CO
+                    
+                    
+                    Ball State (IN)","$426,600","$372,500","$54,100"
+5,133,PIT,,Jackson Glenn,3B,23,/,"CO
+                    
+                    
+                    Dallas Baptist (TX)","$422,300","$12,500","$409,800"
+5,134,TEX,,Mitch Bratt,P,18,/,"HS
+                    
+                    
+                    Georgia Premier Academy (GA)","$418,200","$850,000","-$431,800"
+5,135,DET,,Tanner Kohlhepp,P,22,/,"CO
+                    
+                    
+                    Notre Dame","$414,000","$400,000","$14,000"
+5,136,BOS,,Nathan Hickey,C,21,/,"CO
+                    
+                    
+                    Florida","$410,100","$1,000,000","-$589,900"
+5,137,BAL,,Carlos Tavera,P,22,/,"CO
+                    
+                    
+                    Texas-Arlington","$406,000","$375,000","$31,000"
+5,138,ARI,,Caleb Roberts,C,21,L / R,"CO
+                    
+                    
+                    North Carolina","$402,000","$402,000",
+5,139,KC,,Eric Cerantola,P,21,R / R,"CO
+                    
+                    
+                    Mississippi State","$398,000","$497,500","-$99,500"
+5,140,COL,,Evan Justice,P,23,/,"CO
+                    
+                    
+                    North Carolina State","$394,300","$150,000","$244,300"
+5,141,LAA,,Brett Kerry,P,22,/,"CO
+                    
+                    
+                    South Carolina","$390,400","$297,500","$92,900"
+5,142,NYM,,Christian Scott,P,22,/,"CO
+                    
+                    
+                    Florida","$386,600","$350,000","$36,600"
+5,143,WSH,,T.J. White,OF,17,/,"HS
+                    
+                    
+                    Dorman HS (SC)","$382,700","$400,000","-$17,300"
+5,144,SEA,,Andy Thomas,C,23,/,"CO
+                    
+                    
+                    Baylor (TX)","$379,000","$25,000","$354,000"
+5,145,PHI,,Griff McGarry,P,22,/,"CO
+                    
+                    
+                    Virginia","$375,200","$322,500","$52,700"
+5,146,SF,,Rohan Handa,P,21,/,"CO
+                    
+                    
+                    Yale (CT)","$371,600","$347,500","$24,100"
+5,147,MIL,,Ethan Murray,SS,21,/,"CO
+                    
+                    
+                    Duke","$367,900","$272,500","$95,400"
+5,148,HOU,,Quincy Hamilton,OF,23,/,"CO
+                    
+                    
+                    Wright State (OH)","$364,400","$47,500","$316,900"
+5,149,MIA,,Brady Allen,OF,21,/,"CO
+                    
+                    
+                    South Carolina","$360,800","$358,300","$2,500"
+5,150,CIN,,Thomas Farr,P,22,/,"CO
+                    
+                    
+                    South Carolina","$357,100","$297,500","$59,600"
+5,151,STL,,Gordon Graceffo,P,21,/,"CO
+                    
+                    
+                    Villanova (PA)","$353,700","$300,000","$53,700"
+5,152,TOR,,Irv Carter,P,18,/,"HS
+                    
+                    
+                    Calvary Christian HS (FL)","$350,300","$847,500","-$497,200"
+5,153,NYY,,Tyler Hardman,1B,22,/,"CO
+                    
+                    
+                    Oklahoma","$346,800","$200,000","$146,800"
+5,154,CHC,,Liam Spence,SS,23,/,"CO
+                    
+                    
+                    Tennessee","$343,400","$135,000","$208,400"
+5,155,CHW,,Tanner McDougal,P,18,/,"HS
+                    
+                    
+                    Silverado HS (NV)","$340,000","$850,000","-$510,000"
+5,156,CLE,,Tanner Bibee,P,22,R / R,"CO
+                    
+                    
+                    California State-Fullerton","$336,600","$259,400","$77,200"
+5,157,ATL,,Luke Waddell,SS,23,/,"CO
+                    
+                    
+                    Georgia Tech","$333,300","$247,500","$85,800"
+5,158,OAK,,CJ Rodriguez,C,21,/,"CO
+                    
+                    
+                    Vanderbilt (TN)","$330,100","$400,000","-$69,900"
+5,159,MIN,,Christian MacLeod,P,21,/,"CO
+                    
+                    
+                    Mississippi State","$327,200","$500,000","-$172,800"
+5,160,SD,,Max Ferguson,2B,21,/,"CO
+                    
+                    
+                    Tennessee","$324,100","$324,100",
+5,161,TB,,Mason Auer,OF,20,/,"JC
+                    
+                    
+                    San Jacinto JC (TX)","$321,100","$312,500","$8,600"
+5,162,LAD,,Ben Casparius,P,22,/,"CO
+                    
+                    
+                    Connecticut","$318,200","$247,500","$70,700"
+6,163,PIT,,Mike Jarvis,SS,23,/,"CO
+                    
+                    
+                    San Diego State (CA)","$315,400","$7,500","$307,900"
+6,164,TEX,,Chase Lee,P,22,/,"CO
+                    
+                    
+                    Alabama","$312,400","$75,000","$237,400"
+6,165,DET,,Austin Murr,OF,22,/,"CO
+                    
+                    
+                    North Carolina State","$309,500","$200,000","$109,500"
+6,166,BOS,,Daniel McElveny,SS,18,/,"HS
+                    
+                    
+                    Bonita Vista HS (CA)","$306,800","$197,500","$109,300"
+6,167,BAL,,Collin Burns,SS,21,/,"CO
+                    
+                    
+                    Tulane (LA)","$304,200","$375,000","-$70,800"
+6,168,ARI,,Luke Albright,P,21,R / R,"CO
+                    
+                    
+                    Kent State","$301,600","$301,600",
+6,169,KC,,Dayton Dooney,2B,21,/,"JC
+                    
+                    
+                    Central Arizona JC","$299,000","$297,500","$1,500"
+6,170,COL,,Braxton Fulford,C,22,/,"CO
+                    
+                    
+                    Texas Tech","$296,400","$280,000","$16,400"
+6,171,LAA,,Jake Smith,P,21,/,"CO
+                    
+                    
+                    Miami (FL)","$293,800","$247,500","$46,300"
+6,172,NYM,,Carson Seymour,P,22,/,"CO
+                    
+                    
+                    Kansas State","$291,400","$291,400",
+6,173,WSH,,Michael Kirian,P,22,/,"CO
+                    
+                    
+                    Louisville","$289,000","$200,000","$89,000"
+6,174,SEA,,Bryan Woo,P,21,/,"CO
+                    
+                    
+                    California State Poly-San Luis Obis...","$286,500","$318,200","-$31,700"
+6,175,PHI,,Jose Pena Jr.,P,18,/,"HS
+                    
+                    
+                    Tampa Prep HS (FL)","$284,200","$222,500","$61,700"
+6,176,SF,,Seth Lonsway,P,22,/,"CO
+                    
+                    
+                    Ohio State","$281,800","$297,500","-$15,700"
+6,177,MIL,,Carlos F. Rodriguez,P,19,/,"JC
+                    
+                    
+                    Florida SouthWestern State JC","$279,500","$250,000","$29,500"
+6,178,HOU,,Spencer Arrighetti,P,21,/,"CO
+                    
+                    
+                    Louisiana-Lafayette","$277,100","$147,500","$129,600"
+6,179,MIA,,Sam Praytor,C,22,/,"CO
+                    
+                    
+                    Alabama","$274,800","$197,500","$77,300"
+6,180,CIN,,Justice Thompson,OF,21,/,"CO
+                    
+                    
+                    North Carolina","$272,500","$247,500","$25,000"
+6,181,STL,,Alfredo Ruiz,P,21,/,"CO
+                    
+                    
+                    California State-Long Beach","$270,300","$50,000","$220,300"
+6,182,TOR,,Hayden Juenger,P,20,/,"CO
+                    
+                    
+                    Missouri State","$268,200","$197,500","$70,700"
+6,183,NYY,,Richard Fitts,P,21,/,"CO
+                    
+                    
+                    Auburn (AL)","$266,000","$346,800","-$80,800"
+6,184,CHC,,Riley Martin,P,23,/,"CO
+                    
+                    
+                    Quincy (IL)","$263,700","$1,000","$262,700"
+6,185,CHW,,Taylor Broadway,P,24,/,"CO
+                    
+                    
+                    Mississippi","$261,600","$30,000","$231,600"
+6,186,CLE,,Aaron Davenport,P,20,/,"CO
+                    
+                    
+                    Hawaii","$259,400","$450,000","-$190,600"
+6,187,ATL,,Justyn-Henry Malloy,3B,21,/,"CO
+                    
+                    
+                    Georgia Tech","$257,400","$297,500","-$40,100"
+6,188,OAK,,Grant Holman,P,21,/,"CO
+                    
+                    
+                    California-Berkeley","$255,300","$375,000","-$119,700"
+6,189,MIN,,Travis Adams,P,21,/,"CO
+                    
+                    
+                    Sacramento State (CA)","$253,300","$253,300",
+6,190,SD,,Ryan Bergert,P,21,/,"CO
+                    
+                    
+                    West Virginia","$251,100","$500,000","-$248,900"
+6,191,TB,,Mason Montgomery,P,21,/,"CO
+                    
+                    
+                    Texas Tech","$249,000","$222,500","$26,500"
+6,192,LAD,,Emmet Sheehan,P,21,/,"CO
+                    
+                    
+                    Boston College (MA)","$247,000","$244,500","$2,500"
+7,193,PIT,,Wyatt Hendrie,C,22,/,"CO
+                    
+                    
+                    San Diego State (CA)","$244,900","$177,500","$67,400"
+7,194,TEX,,Bradford Webb,P,23,/,"CO
+                    
+                    
+                    Virginia Commonwealth","$243,000","$10,000","$233,000"
+7,195,DET,,Brant Hurter,P,22,/,"CO
+                    
+                    
+                    Georgia Tech","$241,000","$241,000",
+7,196,BOS,,Wyatt Olds,P,21,/,"CO
+                    
+                    
+                    Oklahoma","$239,000","$236,500","$2,500"
+7,197,BAL,,Connor Pavolony,C,21,/,"CO
+                    
+                    
+                    Tennessee","$237,000","$325,000","-$88,000"
+7,198,ARI,,Scott Randall,P,22,R / R,"CO
+                    
+                    
+                    Sacramento State (CA)","$235,100","$125,000","$110,100"
+7,199,KC,,Noah Cameron,P,22,/,"CO
+                    
+                    
+                    Central Arkansas","$233,000","$197,500","$35,500"
+7,200,COL,,Evan Shawver,P,21,/,"CO
+                    
+                    
+                    Cincinnati","$231,100","$231,100",
+7,201,LAA,,Ryan Costeiu,P,20,/,"CO
+                    
+                    
+                    Arkansas","$229,700","$222,500","$7,200"
+7,202,NYM,,Kevin Kendall,SS,22,L / R,"CO
+                    
+                    
+                    California-Los Angeles","$227,700","$200,000","$27,700"
+7,203,WSH,,Jacob Young,OF,21,/,"CO
+                    
+                    
+                    Florida","$225,800","$275,000","-$49,200"
+7,204,SEA,,Colin Davis,OF,22,/,"CO
+                    
+                    
+                    Wofford (SC)","$224,000","$150,000","$74,000"
+7,205,PHI,,Christian McGowan,P,21,/,"JC
+                    
+                    
+                    Eastern Oklahoma State JC","$222,100","$577,000","-$354,900"
+7,206,SF,,Nick Sinacola,P,21,/,"CO
+                    
+                    
+                    Maine","$220,200","$197,500","$22,700"
+7,207,MIL,,Tristan Peters,OF,21,/,"CO
+                    
+                    
+                    Southern Illinois","$218,500","$147,500","$71,000"
+7,208,HOU,,Joey Loperfido,OF,22,/,"CO
+                    
+                    
+                    Duke","$216,600","$72,500","$144,100"
+7,209,MIA,,Gabe Bierman,P,21,/,"CO
+                    
+                    
+                    Indiana","$214,900","$197,500","$17,400"
+7,210,CIN,,Kevin Abel,P,22,/,"CO
+                    
+                    
+                    Oregon State","$213,300","$172,500","$40,800"
+7,211,STL,,Alec Willis,P,18,/,"HS
+                    
+                    
+                    Regis Jesuit HS (CO)","$211,500","$1,000,000","-$788,500"
+7,212,TOR,,Jaden Rudd,OF,18,/,"HS
+                    
+                    
+                    Mosley HS (FL)","$209,800","$197,500","$12,300"
+7,213,NYY,,Robert Ahlstrom,P,22,/,"CO
+                    
+                    
+                    Oregon","$208,200","$140,000","$68,200"
+7,214,CHC,,Parker Chavers,OF,22,/,"CO
+                    
+                    
+                    Coastal Carolina (SC)","$206,500","$125,000","$81,500"
+7,215,CHW,,Theo Denlinger,P,25,/,"CO
+                    
+                    
+                    Bradley (IL)","$204,800","$10,000","$194,800"
+7,216,CLE,,Jack Leftwich,P,22,/,"CO
+                    
+                    
+                    Florida","$203,400","$167,000","$36,400"
+7,217,ATL,,AJ Smith-Shawver,P,18,/,"HS
+                    
+                    
+                    Colleyville Heritage HS (TX)","$201,600","$997,500","-$795,900"
+7,218,OAK,,Brett Harris,3B,23,/,"CO
+                    
+                    
+                    Gonzaga","$200,100","$120,000","$80,100"
+7,219,MIN,,Jake Rucker,3B,21,/,"CO
+                    
+                    
+                    Tennessee","$198,500","$250,000","-$51,500"
+7,220,SD,,Ryan Och,P,23,/,"CO
+                    
+                    
+                    Southern Mississippi","$197,300","$150,000","$47,300"
+7,221,TB,,Logan Workman,P,22,/,"CO
+                    
+                    
+                    Lee","$195,700","$122,500","$73,200"
+7,222,LAD,,Ryan Sublette,P,22,/,"CO
+                    
+                    
+                    Texas Tech","$194,400","$147,500","$46,900"
+8,223,PIT,,Sean Sullivan,P,20,/,"CO
+                    
+                    
+                    California-Berkeley","$192,900","$175,000","$17,900"
+8,224,TEX,,Larson Kindreich,P,22,/,"CO
+                    
+                    
+                    Biola (CA)","$191,500","$150,000","$41,500"
+8,225,DET,,Jordan Marks,P,22,/,"CO
+                    
+                    
+                    South Carolina-Upstate","$190,100","$150,000","$40,100"
+8,226,BOS,,Hunter Dobbins,P,21,/,"CO
+                    
+                    
+                    Texas Tech","$188,900","$197,500","-$8,600"
+8,227,BAL,,Creed Willems,C,18,/,"HS
+                    
+                    
+                    Aledo HS (TX)","$187,700","$1,000,000","-$812,300"
+8,228,ARI,,Gavin Conticello,3B,18,L / R,"HS
+                    
+                    
+                    Stoneman Douglas HS (FL)","$186,300","$500,000","-$313,700"
+8,229,KC,,Ryan Cepero,SS,18,/,"HS
+                    
+                    
+                    Carlos Beltran Baseball Academy (PR...","$184,700","$208,500","-$23,800"
+8,230,COL,,Robby Martin,OF,21,/,"CO
+                    
+                    
+                    Florida State","$183,700","$200,000","-$16,300"
+8,231,LAA,,Nick Jones,P,22,/,"CO
+                    
+                    
+                    Georgia Southern","$182,300","$122,500","$59,800"
+8,232,NYM,,Mike Vasil,P,21,/,"CO
+                    
+                    
+                    Virginia","$181,200","$181,200",
+8,233,WSH,,Will Frizzell,1B,22,/,"CO
+                    
+                    
+                    Texas A&M","$179,800","$179,800",
+8,234,SEA,,James Parker,SS,21,/,"CO
+                    
+                    
+                    Clemson","$178,600","$150,000","$28,600"
+8,235,PHI,,Jason Ruffcorn,P,22,/,"CO
+                    
+                    
+                    Oklahoma","$177,400","$147,500","$29,900"
+8,236,SF,,Ian Villers,P,20,/,"CO
+                    
+                    
+                    California-Berkeley","$176,300","$217,500","-$41,200"
+8,237,MIL,,Zack Raabe,2B,21,/,"CO
+                    
+                    
+                    Minnesota","$175,000","$150,000","$25,000"
+8,238,HOU,,Colton Gordon,P,22,/,"CO
+                    
+                    
+                    Central Florida","$174,000","$127,500","$46,500"
+8,239,MIA,,Pat Monteverde,P,23,/,"CO
+                    
+                    
+                    Texas Tech","$173,000","$47,500","$125,500"
+8,240,CIN,,Hunter Parks,P,20,/,"JC
+                    
+                    
+                    Florence-Darlington Tech JC (SC)","$172,100","$142,500","$29,600"
+8,241,STL,,Mike Antico,OF,23,/,"CO
+                    
+                    
+                    Texas","$171,200","$20,000","$151,200"
+8,242,TOR,,Hunter Gregory,P,22,/,"CO
+                    
+                    
+                    Old Dominion (VA)","$170,300","$127,500","$42,800"
+8,243,NYY,,Will Warren,P,22,/,"CO
+                    
+                    
+                    Southeastern Louisiana","$169,500","$150,000","$19,500"
+8,244,CHC,,Casey Opitz,C,22,/,"CO
+                    
+                    
+                    Arkansas","$168,500","$90,000","$78,500"
+8,245,CHW,,Fraser Ellard,P,23,/,"CO
+                    
+                    
+                    Liberty (VA)","$167,800","$20,000","$147,800"
+8,246,CLE,,Rodney Boone,P,21,/,"CO
+                    
+                    
+                    California-Santa Barbara","$167,000","$167,000",
+8,247,ATL,,Tyler Collins,OF,18,/,"HS
+                    
+                    
+                    Boyd HS (TX)","$166,100","$447,500","-$281,400"
+8,248,OAK,,Drew Swift,SS,22,/,"CO
+                    
+                    
+                    Arizona State","$165,400","$125,000","$40,400"
+8,249,MIN,,Noah Cardenas,C,21,/,"CO
+                    
+                    
+                    California-Los Angeles","$164,700","$200,000","-$35,300"
+8,250,SD,,Lucas Dunn,2B,22,/,"CO
+                    
+                    
+                    Louisville","$163,900","$100,000","$63,900"
+8,251,TB,,Patrick Wicklander,P,21,/,"CO
+                    
+                    
+                    Arkansas","$163,400","$147,500","$15,900"
+8,252,LAD,,Ben Harris,P,21,L / L,"CO
+                    
+                    
+                    Georgia","$162,700","$197,500","-$34,800"
+9,253,PIT,,Luke Brown,OF,22,/,"CO
+                    
+                    
+                    Louisville","$162,000","$72,500","$89,500"
+9,254,TEX,,Liam Hicks,C,22,/,"CO
+                    
+                    
+                    Arkansas State","$161,400","$30,000","$131,400"
+9,255,DET,,Garrett Burhenn,P,21,/,"CO
+                    
+                    
+                    Ohio State","$160,800","$160,800",
+9,256,BOS,,Tyler Miller,3B,21,/,"CO
+                    
+                    
+                    Auburn (AL)","$160,300","$157,800","$2,500"
+9,257,BAL,,Ryan Higgins,3B,21,/,"CO
+                    
+                    
+                    California State-Fresno","$159,700","$159,700",
+9,258,ARI,,Jake Rice,P,24,L / L,"CO
+                    
+                    
+                    Kennesaw State","$159,200","$30,000","$129,200"
+9,259,KC,,Parker Bates,OF,23,/,"CO
+                    
+                    
+                    Louisiana Tech","$158,600","$17,500","$141,100"
+9,260,COL,,Cullen Kafka,P,22,/,"CO
+                    
+                    
+                    Oregon","$158,100","$158,100",
+9,261,LAA,,Braden Olthoff,P,22,/,"CO
+                    
+                    
+                    Tulane (LA)","$157,600","$122,500","$35,100"
+9,262,NYM,,Levi David,P,22,R / R,"CO
+                    
+                    
+                    Northwestern State (LA)","$157,200","$120,000","$37,200"
+9,263,WSH,,Cole Quintanilla,P,22,/,"CO
+                    
+                    
+                    Texas","$156,600","$130,000","$26,600"
+9,264,SEA,,Spencer Packard,OF,23,L / R,"CO
+                    
+                    
+                    Campbell (NC)","$156,100","$25,000","$131,100"
+9,265,PHI,,Gavin Tonkel,OF,18,/,"HS
+                    
+                    
+                    Heritage HS (CA)","$155,800","$247,500","-$91,700"
+9,266,SF,,Mat Olsen,P,21,/,"JC
+                    
+                    
+                    Central Arizona JC","$155,300","$147,500","$7,800"
+9,267,MIL,,Brannon Jordan,P,23,/,"CO
+                    
+                    
+                    South Carolina","$154,900","$47,500","$107,400"
+9,268,HOU,,Aaron Brown,P,22,/,"CO
+                    
+                    
+                    Middle Tennessee State","$154,600","$57,500","$97,100"
+9,269,MIA,,Jake Schrand,P,21,/,"CO
+                    
+                    
+                    Wright State (OH)","$154,100","$97,500","$56,600"
+9,270,CIN,,Jack Rogers,OF,22,/,"CO
+                    
+                    
+                    Sam Houston State (TX)","$153,600","$127,500","$26,100"
+9,271,STL,,Trent Baker,P,22,/,"CO
+                    
+                    
+                    Angelo State (TX)","$153,300","$75,000","$78,300"
+9,272,TOR,,Conor Larkin,P,22,/,"CO
+                    
+                    
+                    Pennsylvania State","$152,900","$77,500","$75,400"
+9,273,NYY,,Chandler Champlain,P,21,/,"CO
+                    
+                    
+                    Southern California","$152,600","$150,000","$2,600"
+9,274,CHC,,Chase Watkins,P,21,/,"CO
+                    
+                    
+                    Oregon State","$152,300","$125,000","$27,300"
+9,275,CHW,,Gil Luna Jr.,P,21,/,"CO
+                    
+                    
+                    Arizona","$152,000","$10,000","$142,000"
+9,276,CLE,,Will Dion,P,21,/,"CO
+                    
+                    
+                    McNeese State","$151,600","$125,000","$26,600"
+9,277,ATL,,Liam McGill,C,23,/,"CO
+                    
+                    
+                    Bryant (RI)","$151,300","$7,500","$143,800"
+9,278,OAK,,Shane McGuire,C,22,/,"CO
+                    
+                    
+                    San Diego (CA)","$150,800","$100,000","$50,800"
+9,279,MIN,,Patrick Winkel,C,21,/,"CO
+                    
+                    
+                    Connecticut","$150,500","$500,000","-$349,500"
+9,280,SD,,Garrett Hawkins,P,21,/,"CO
+                    
+                    
+                    British Columbia (B.C.)","$150,300","$75,000","$75,300"
+9,281,TB,,Alexander Ayala,P,19,/,"JC
+                    
+                    
+                    Florida SouthWestern State JC","$150,100","$147,600","$2,500"
+9,282,LAD,,Lael Lockhart,P,23,/,"CO
+                    
+                    
+                    Arkansas","$149,800","$2,500","$147,300"
+10,283,PIT,,Justin Meis,P,21,/,"CO
+                    
+                    
+                    Eastern Michigan","$149,500","$127,500","$22,000"
+10,284,TEX,,CJ Widger,P,22,L / L,"JC
+                    
+                    
+                    Rowan JC of South Jersey-Gloucester...","$149,300","$20,000","$129,300"
+10,285,DET,,Austin Schultz,OF,21,/,"CO
+                    
+                    
+                    Kentucky","$148,900","$148,900",
+10,286,BOS,,Matt Litwicki,P,22,/,"CO
+                    
+                    
+                    Indiana","$148,400","$47,500","$100,900"
+10,287,BAL,,Billy Cook,OF,22,/,"CO
+                    
+                    
+                    Pepperdine","$148,200","$100,000","$48,200"
+10,288,ARI,,Hugh Fisher,P,22,R / L,"CO
+                    
+                    
+                    Vanderbilt (TN)","$147,900","$100,000","$47,900"
+10,289,KC,,Shane Connolly,P,22,/,"CO
+                    
+                    
+                    Virginia Tech","$147,700","$72,500","$75,200"
+10,290,COL,,Zach Kokoska,OF,22,/,"CO
+                    
+                    
+                    Kansas State","$147,400","$130,000","$17,400"
+10,291,LAA,,Andrew Peters,P,22,/,"CO
+                    
+                    
+                    South Carolina","$147,200","$144,700","$2,500"
+10,292,NYM,,Keyshawn Askew,P,21,/,"CO
+                    
+                    
+                    Clemson","$147,000","$125,000","$22,000"
+10,293,WSH,,Darren Baker,2B,22,/,"CO
+                    
+                    
+                    California-Berkeley","$146,800","$146,800",
+10,294,SEA,,Jordan Jackson,P,22,/,"CO
+                    
+                    
+                    Georgia Southern","$146,300","$25,000","$121,300"
+10,295,PHI,,Logan Cerny,OF,21,/,"CO
+                    
+                    
+                    Troy (AL)","$146,100","$146,100",
+10,296,SF,,Vaun Brown,OF,23,/,"CO
+                    
+                    
+                    Florida Southern","$145,700","$7,500","$138,200"
+10,297,MIL,,Wes Clarke,C,21,/,"CO
+                    
+                    
+                    South Carolina","$145,500","$75,000","$70,500"
+10,298,HOU,,Michael Sandle,OF,22,/,"CO
+                    
+                    
+                    South Alabama","$145,300","$47,500","$97,800"
+10,299,MIA,,Hunter Perdue,P,22,/,"CO
+                    
+                    
+                    Florida State","$145,000","$57,500","$87,500"
+10,300,CIN,,Donovan Benoit,P,22,/,"CO
+                    
+                    
+                    Tulane (LA)","$144,800","$127,500","$17,300"
+10,301,STL,,Osvaldo Tovalin,3B,21,/,"CO
+                    
+                    
+                    Azusa Pacific (CA)","$144,600","$50,000","$94,600"
+10,302,TOR,,Connor Cooke,P,21,/,"CO
+                    
+                    
+                    Louisiana-Lafayette","$144,400","$141,900","$2,500"
+10,303,NYY,,Benjamin Cowles,SS,21,/,"CO
+                    
+                    
+                    Maryland","$144,100","$140,000","$4,100"
+10,304,CHC,,Peter Matt,OF,23,/,"CO
+                    
+                    
+                    Duke","$143,900","$5,000","$138,900"
+10,305,CHW,,Tommy Sommer,P,22,/,"CO
+                    
+                    
+                    Indiana","$143,600","$20,000","$123,600"
+10,306,CLE,,Franco Aleman,P,21,/,"CO
+                    
+                    
+                    Florida","$143,500","$175,000","-$31,500"
+10,307,ATL,,Dylan Spain,P,23,/,"CO
+                    
+                    
+                    Hawaii-Hilo","$143,200","$17,500","$125,700"
+10,308,OAK,,Jack WInkler,SS,22,/,"CO
+                    
+                    
+                    San Francisco","$143,000","$50,000","$93,000"
+10,309,MIN,,Ernie Yake,SS,23,/,"CO
+                    
+                    
+                    Gonzaga","$142,700","$10,000","$132,700"
+10,310,SD,,Colton Bender,C,22,/,"CO
+                    
+                    
+                    Quinnipiac","$142,500","$5,000","$137,500"
+10,311,TB,,Austin Vernon,P,22,/,"CO
+                    
+                    
+                    North Carolina Central","$142,300","$139,800","$2,500"
+10,312,LAD,,Michael Hobbs,P,22,/,"CO
+                    
+                    
+                    St. Mary's College (CA)","$142,200","$2,500","$139,700"
+11,313,PIT,,Jack Carey,P,21,/,"CO
+                    
+                    
+                    Duke (NC)","$125,000","$125,000",
+11,314,TEX,,JoJo Blackmon,OF,18,/,"HS
+                    
+                    
+                    Escambia HS (FL)","$125,000","$250,000","-$125,000"
+11,315,DET,,Josh Crouch,C,22,/,"CO
+                    
+                    
+                    Central Florida","$125,000","$125,000",
+11,316,BOS,,Niko Kavadas,1B,22,/,"CO
+                    
+                    
+                    Notre Dame","$125,000","$250,000","-$125,000"
+11,317,BAL,,Dylan Heid,P,23,/,"CO
+                    
+                    
+                    Pittsburgh-Johnston","$125,000","$75,000","$50,000"
+11,318,ARI,,Tim Tawa,2B,22,R / R,"CO
+                    
+                    
+                    Stanford (CA)","$125,000","$125,000",
+11,319,KC,,Brennon McNair,SS,18,/,"HS
+                    
+                    
+                    Magee HS (MS)","$125,000","$347,500","-$222,500"
+11,320,COL,,Nic Kent,SS,21,/,"CO
+                    
+                    
+                    Virginia","$125,000","$175,000","-$50,000"
+11,321,LAA,,Chase Silseth,SP,21,/,"CO
+                    
+                    
+                    Tennessee","$125,000","$485,000","-$360,000"
+11,322,NYM,,Rowdey Jordan,OF,22,/,"CO
+                    
+                    
+                    Mississippi State","$125,000","$125,000",
+11,323,WSH,,Marc Davis,RP,21,/,"JC
+                    
+                    
+                    Florida SouthWestern State JC","$125,000","$125,000",
+11,324,SEA,,William Fleming,P,22,/,Wake Forest,"$125,000","$125,000",
+11,325,PHI,,Andrew Baker,P,21,/,"JC
+                    
+                    
+                    Chipola JC (FL)","$125,000","$200,000","-$75,000"
+11,326,SF,,Donovan McIntyre,OF,18,/,"HS
+                    
+                    
+                    Marian Catholic HS (IL)","$125,000","$297,500","-$172,500"
+11,327,MIL,,Roc Riggio,2B,19,L / R,"HS
+                    
+                    
+                    Thousand Oaks HS (CA)","$125,000",Unsigned,
+11,328,HOU,,Chad Stevens,SS,22,/,"CO
+                    
+                    
+                    Portland","$125,000","$125,000",
+11,329,MIA,,Jesse Bergin,P,21,/,"CO
+                    
+                    
+                    California-Los Angeles","$125,000","$125,000",
+11,330,CIN,,Shawn Guilliams,P,19,/,"JC
+                    
+                    
+                    JC of Central Florida","$125,000","$272,500","-$147,500"
+11,331,STL,,Mack Chambers,SS,21,/,"CO
+                    
+                    
+                    New Mexico","$125,000","$175,000","-$50,000"
+11,332,TOR,,Trenton Wallace,P,22,/,"CO
+                    
+                    
+                    Iowa","$125,000","$172,500","-$47,500"
+11,333,NYY,,Jack Neely,P,21,/,"CO
+                    
+                    
+                    Ohio State","$125,000","$150,000","-$25,000"
+11,334,CHC,,Gage Ziehl,P,18,R / R,"HS
+                    
+                    
+                    Penfield HS (NY)","$125,000",Unsigned,
+11,335,CHW,,Christian Edwards,P,22,/,"CO
+                    
+                    
+                    Jacksonville State (AL)","$125,000","$150,000","-$25,000"
+11,336,CLE,,Hunter Stanley,P,23,/,"CO
+                    
+                    
+                    Southern Mississippi","$125,000","$125,000",
+11,337,ATL,,Adam Shoemaker,P,18,/,"HS
+                    
+                    
+                    St. Benedict Catholic SS (ON)","$125,000","$477,500","-$352,500"
+11,338,OAK,,Eduardo Rivera,P,18,/,"HS
+                    
+                    
+                    CADEST HS (PR)","$125,000","$125,000",
+11,339,MIN,,Brandon Birdsell,RP,21,/,"CO
+                    
+                    
+                    Texas Tech","$125,000",Unsigned,
+11,340,SD,,River Ryan,P,22,/,"CO
+                    
+                    
+                    North Carolina Pembroke","$125,000","$100,000","$25,000"
+11,341,TB,,Sean Mullen,P,21,/,"CO
+                    
+                    
+                    California-Los Angeles","$125,000","$125,000",
+11,342,LAD,,Justin Wrobleski,P,21,/,"CO
+                    
+                    
+                    Oklahoma State","$125,000","$197,500","-$72,500"
+12,343,PIT,,Chazz Martinez,P,21,/,"JC
+                    
+                    
+                    Orange Coast JC (CA)","$125,000",Unsigned,
+12,344,TEX,,Jackson Leath,RP,22,/,"CO
+                    
+                    
+                    Tennessee","$125,000","$125,000",
+12,345,DET,,Mike Rothenberg,C,22,/,"CO
+                    
+                    
+                    Duke (NC)","$125,000","$125,000",
+12,346,BOS,,Christopher Troye,P,22,/,"CO
+                    
+                    
+                    California-Santa Barbara","$125,000","$122,500","$2,500"
+12,347,BAL,,Justin Armbruester,P,22,/,"CO
+                    
+                    
+                    New Mexico","$125,000","$100,000","$25,000"
+12,348,ARI,,Davis Diaz,3B,18,R / R,"HS
+                    
+                    
+                    Acalanes HS (CA)","$125,000",Unsigned,
+12,349,KC,,Tyson Guerrero,P,22,/,"CO
+                    
+                    
+                    Washington","$125,000","$127,500","-$2,500"
+12,350,COL,,Mason Green,P,22,/,"CO
+                    
+                    
+                    Central Missouri","$125,000","$125,000",
+12,351,LAA,,Mason Albright,P,18,/,"HS
+                    
+                    
+                    IMG Academy (FL)","$125,000","$1,247,500","-$1,122,500"
+12,352,NYM,,Jack-Thomas Wold,OF,21,/,"CO
+                    
+                    
+                    Nevada-Las Vegas","$125,000","$125,000",
+12,353,WSH,,Andrew Alvarez,P,22,/,"CO
+                    
+                    
+                    California State Poly-San Luis Obis...","$125,000","$125,000",
+12,354,SEA,,Corey Rosier,OF,21,/,"CO
+                    
+                    
+                    North Carolina Greensboro","$125,000","$125,000",
+12,355,PHI,,T.J. Rumfield,3B,21,/,"CO
+                    
+                    
+                    Virginia Tech","$125,000","$125,000",
+12,356,SF,,Landen Roupp,P,22,/,"CO
+                    
+                    
+                    North Carolina Wilmington","$125,000","$75,000","$50,000"
+12,357,MIL,,Caden Vire,P,17,/,"HS
+                    
+                    
+                    Skyview HS (WA)","$125,000","$497,500","-$372,500"
+12,358,HOU,,Rhett Kouba,P,21,/,"CO
+                    
+                    
+                    Dallas Baptist (TX)","$125,000","$125,000",
+12,359,MIA,,Brandon X. White,P,21,/,"CO
+                    
+                    
+                    Washington State","$125,000","$125,000",
+12,360,CIN,,Julian Aguiar,P,20,/,"JC
+                    
+                    
+                    Cypress JC (CA)","$125,000","$125,000",
+12,361,STL,,Chris Gerard,P,21,/,"CO
+                    
+                    
+                    Virginia Tech","$125,000","$250,000","-$125,000"
+12,362,TOR,,Riley Tirotta,3B,22,/,"CO
+                    
+                    
+                    Dayton","$125,000","$125,000",
+12,363,NYY,,Ben Rice,C,22,L / R,"CO
+                    
+                    
+                    Dartmouth (NH)","$125,000","$125,000",
+12,364,CHC,,Teo Banks,OF,18,R / R,"HS
+                    
+                    
+                    Permian HS (TX)","$125,000",Unsigned,
+12,365,CHW,,Johnny Ray,P,22,/,"CO
+                    
+                    
+                    Texas Christian","$125,000","$150,000","-$25,000"
+12,366,CLE,,Connor Kokx,OF,21,/,"CO
+                    
+                    
+                    California State-Long Beach","$125,000","$125,000",
+12,367,ATL,,Andrew Hoffman,P,21,/,"CO
+                    
+                    
+                    Illinois","$125,000","$125,000",
+12,368,OAK,,Mitch Myers,P,22,/,"CO
+                    
+                    
+                    Pittsburgh","$125,000","$125,000",
+12,369,MIN,,Kyler Fedko,OF,21,/,"CO
+                    
+                    
+                    Connecticut","$125,000","$125,000",
+12,370,SD,,Marcos Castañon,SS,22,/,"CO
+                    
+                    
+                    California-Santa Barbara","$125,000","$125,000",
+12,371,TB,,Jonny Cuevas,P,20,/,"JC
+                    
+                    
+                    JC of Southern Nevada","$125,000","$197,500","-$72,500"
+12,372,LAD,,Ronan Kopp,P,18,/,"JC
+                    
+                    
+                    South Mountain JC (AZ)","$125,000","$125,000",
+13,373,PIT,,Owen Sharts,P,21,/,"CO
+                    
+                    
+                    Nevada","$125,000","$125,000",
+13,374,TEX,,Thomas Ireland,P,19,/,"JC
+                    
+                    
+                    Polk State JC (FL)","$125,000","$125,000",
+13,375,DET,,Chris Meyers,3B,22,/,"CO
+                    
+                    
+                    Toledo (OH)","$125,000","$125,000",
+13,376,BOS,,Zach Ehrhard,OF,18,R / R,"HS
+                    
+                    
+                    Wharton HS (FL)","$125,000",Unsigned,
+13,377,BAL,,Jacob Teter,1B,22,L / L,"CO
+                    
+                    
+                    Florida Southern","$125,000","$100,000","$25,000"
+13,378,ARI,,Josh Swales,P,19,R / R,"JC
+                    
+                    
+                    JC of Southern Nevada","$125,000","$125,000",
+13,379,KC,,Patrick Halligan,P,21,/,"JC
+                    
+                    
+                    Pensacola State JC (FL)","$125,000","$132,500","-$7,500"
+13,380,COL,,EJ Andrews,OF,20,/,"CO
+                    
+                    
+                    California State-Fresno","$125,000","$125,000",
+13,381,LAA,,Mo Hanley,P,22,/,"CO
+                    
+                    
+                    Adrian (MI)","$125,000","$125,000",
+13,382,NYM,,Matt Rudick,OF,23,L / L,San Diego State,"$125,000","$125,000",
+13,383,WSH,,Mack Anglin,P,21,/,"CO
+                    
+                    
+                    Clemson","$125,000",Unsigned,
+13,384,SEA,,Ben Ramirez,SS,22,/,"CO
+                    
+                    
+                    Southern California","$125,000","$100,000","$25,000"
+13,385,PHI,,Jared Carr,OF,22,/,"CO
+                    
+                    
+                    Shepherd (WV)","$125,000","$50,000","$75,000"
+13,386,SF,,Jared Dupere,OF,22,/,"CO
+                    
+                    
+                    Northeastern","$125,000","$125,000",
+13,387,MIL,,Quinton Low,P,18,/,"HS
+                    
+                    
+                    Chatfield HS (CO)","$125,000","$347,500","-$222,500"
+13,388,HOU,,Kobe Kato,2B,22,L / R,"CO
+                    
+                    
+                    Arizona","$125,000","$125,000",
+13,389,MIA,,Chandler Jozwiak,P,22,/,"CO
+                    
+                    
+                    Texas A&M","$125,000","$125,000",
+13,390,CIN,,Michael Trautwein,C,21,/,"CO
+                    
+                    
+                    Northwestern","$125,000","$125,000",
+13,391,STL,,Hayes Heinecke,P,22,/,"CO
+                    
+                    
+                    Wofford (SC)","$125,000","$125,000",
+13,392,TOR,,Matt Svanson,P,22,/,"CO
+                    
+                    
+                    Lehigh (PA)","$125,000","$50,000","$75,000"
+13,393,NYY,,Zach Messinger,P,21,/,"CO
+                    
+                    
+                    Virginia","$125,000","$225,000","-$100,000"
+13,394,CHC,,Erian Rodriguez,P,19,/,"HS
+                    
+                    
+                    Georgia Premier Academy (GA)","$125,000","$125,000",
+13,395,CHW,,Colby Smelley,C,21,/,"JC
+                    
+                    
+                    Shelton State JC (AL)","$125,000","$125,000",
+13,396,CLE,,Davis Sharpe,P,21,/,"CO
+                    
+                    
+                    Clemson","$125,000","$150,000","-$25,000"
+13,397,ATL,,Adam Zebrowski,C,20,/,"CO
+                    
+                    
+                    St. John Fisher (NY)","$125,000","$125,000",
+13,398,OAK,,Aaron Holiday,P,21,R / R,Old Dominion,"$125,000","$125,000",
+13,399,MIN,,David Festa,P,21,/,"CO
+                    
+                    
+                    Seton Hall (NJ)","$125,000","$125,000",
+13,400,SD,,Kobe Robinson,P,20,/,"JC
+                    
+                    
+                    Chattanooga State JC (TN)","$125,000","$150,000","-$25,000"
+13,401,TB,,Bobby Seymour,1B,22,/,"CO
+                    
+                    
+                    Wake Forest (NC)","$125,000","$125,000",
+13,402,LAD,,Antonio Knowles,P,21,/,"JC
+                    
+                    
+                    Florida SouthWestern State JC","$125,000","$125,000",
+14,403,PIT,,Braylon Bishop,OF,18,/,"HS
+                    
+                    
+                    Arkansas HS (AR)","$125,000","$268,700","-$143,700"
+14,404,TEX,,Tucker Mitchell,C,20,R / R,"JC
+                    
+                    
+                    State JC of Florida","$125,000","$325,000","-$200,000"
+14,405,DET,,RJ Petit,P,21,/,"CO
+                    
+                    
+                    Charleston Southern (SC)","$125,000","$125,000",
+14,406,BOS,,Jacob Webb,P,22,/,"CO
+                    
+                    
+                    Miami (OH)","$125,000","$122,500","$2,500"
+14,407,BAL,,Daniel Lloyd,P,20,/,"CO
+                    
+                    
+                    South Carolina","$125,000","$155,000","-$30,000"
+14,408,ARI,,Channy Ortiz,SS,22,/ R,"CO
+                    
+                    
+                    Grand Canyon (AZ)","$125,000","$125,000",
+14,409,KC,,Caden Monke,P,21,/,"CO
+                    
+                    
+                    Arkansas","$125,000","$125,000",
+14,410,COL,,Tyler Ras,P,21,/,"CO
+                    
+                    
+                    Alabama","$125,000","$125,000",
+14,411,LAA,,Eric Torres,P,21,/,"CO
+                    
+                    
+                    Kansas State","$125,000","$125,000",
+14,412,NYM,,Nathan Lavender,P,21,/,"CO
+                    
+                    
+                    Illinois","$125,000","$125,000",
+14,413,WSH,,Erik Tolman,P,22,/,"CO
+                    
+                    
+                    Arizona State","$125,000","$125,000",
+14,414,SEA,,Andrew Moore,P,21,/,"JC
+                    
+                    
+                    Chipola JC (FL)","$125,000","$125,000",
+14,415,PHI,,Jose Valadez-Acuna,OF,18,/,"HS
+                    
+                    
+                    Veterans Memorial HS (TX)","$125,000","$125,000",
+14,416,SF,,Tyler Myrick,P,23,/,"CO
+                    
+                    
+                    Florida International","$125,000","$125,000",
+14,417,MIL,,Jace Avina,OF,18,/,"HS
+                    
+                    
+                    Spanish Springs HS (NV)","$125,000","$255,900","-$130,900"
+14,418,HOU,,Bryant Salgado,P,21,/,"JC
+                    
+                    
+                    San Jacinto JC (TX)","$125,000","$125,000",
+14,419,MIA,,Holt Jones Jr.,P,22,/,"CO
+                    
+                    
+                    Kentucky","$125,000","$125,000",
+14,420,CIN,,Carter Raffield,P,21,/,"CO
+                    
+                    
+                    Clemson","$125,000","$125,000",
+14,421,STL,,Andre Granillo,P,21,/,"CO
+                    
+                    
+                    California-Riverside","$125,000","$125,000",
+14,422,TOR,,Damiano Palmegiani,3B,21,/,"JC
+                    
+                    
+                    JC of Southern Nevada","$125,000","$157,500","-$32,500"
+14,423,NYY,,Sean Hermann,P,18,/,"HS
+                    
+                    
+                    Durant HS (FL)","$125,000","$135,000","-$10,000"
+14,424,CHC,,Frankie Scalzo,P,21,/,"CO
+                    
+                    
+                    Grand Canyon (AZ)","$125,000","$125,000",
+14,425,CHW,,Noah Owen,P,20,L / R,"JC
+                    
+                    
+                    Golden West JC (CA)","$125,000","$125,000",
+14,426,CLE,,Trenton Denholm,P,21,/,"CO
+                    
+                    
+                    California-Irvine","$125,000","$150,000","-$25,000"
+14,427,ATL,,Caleb Durbin,SS,21,/,"CO
+                    
+                    
+                    Washington University (MO)","$125,000","$50,000","$75,000"
+14,428,OAK,,Jonny Butler,OF,22,/,"CO
+                    
+                    
+                    North Carolina State","$125,000","$125,000",
+14,429,MIN,,Pierson Ohl,P,21,/,"CO
+                    
+                    
+                    Grand Canyon (AZ)","$125,000","$100,000","$25,000"
+14,430,SD,,Adam Smith,P,21,R / R,"CO
+                    
+                    
+                    North Carolina Wilmington","$125,000","$125,000",
+14,431,TB,,Antonio Menendez,P,22,/,"CO
+                    
+                    
+                    Wake Forest (NC)","$125,000","$100,000","$25,000"
+14,432,LAD,,Jordan Leasure,P,22,/,"CO
+                    
+                    
+                    Tampa (FL)","$125,000","$125,000",
+15,433,PIT,,Tyler Samaniego,P,22,/,"CO
+                    
+                    
+                    South Alabama","$125,000","$75,000","$50,000"
+15,434,TEX,,Evan Elliott,RP,20,R / R,"JC
+                    
+                    
+                    Lethbridge JC (AB)","$125,000","$125,000",
+15,435,DET,,Blake Holub,P,22,/,"CO
+                    
+                    
+                    St. Edward's (TX)","$125,000","$100,000","$25,000"
+15,436,BOS,,Payton Green,SS,18,R / R,"HS
+                    
+                    
+                    Crossroads Flex HS (NC)","$125,000",Unsigned,
+15,437,BAL,,Keagan Gillies,P,23,/,"CO
+                    
+                    
+                    Tulane (LA)","$125,000","$50,000","$75,000"
+15,438,ARI,,Shane Muntz,C,22,/,"CO
+                    
+                    
+                    Wake Forest (NC)","$125,000","$125,000",
+15,439,KC,,River Town,OF,22,/,"CO
+                    
+                    
+                    Dallas Baptist (TX)","$125,000","$125,000",
+15,440,COL,,Benjamin Sems,SS,23,/,"CO
+                    
+                    
+                    Michigan","$125,000","$25,000","$100,000"
+15,441,LAA,,Glenn Albanese Jr.,P,22,/,"CO
+                    
+                    
+                    Louisville","$125,000","$125,000",
+15,442,NYM,,Wyatt Young,SS,21,/,"CO
+                    
+                    
+                    Pepperdine","$125,000","$125,000",
+15,443,WSH,,Jaden Fein,OF,20,/,"CO
+                    
+                    
+                    San Diego State (CA)","$125,000","$125,000",
+15,444,SEA,,Cole Barr,3B,23,/,"CO
+                    
+                    
+                    Indiana","$125,000","$25,000","$100,000"
+15,445,PHI,,Matt Osterberg,P,22,/,"CO
+                    
+                    
+                    St. Cloud State (MN)","$125,000","$100,000","$25,000"
+15,446,SF,,Brooks Baldwin,3B,20,/,"CO
+                    
+                    
+                    North Carolina Wilmington","$125,000",Unsigned,
+15,447,MIL,,Hunter Hollan,P,19,L / L,"JC
+                    
+                    
+                    San Jacinto JC (TX)","$125,000",Unsigned,
+15,448,HOU,,Adrian Chaidez,P,22,/,"CO
+                    
+                    
+                    California-Los Angeles","$125,000","$75,000","$50,000"
+15,449,MIA,,Caleb Wurster,P,22,/,"CO
+                    
+                    
+                    Connecticut","$125,000","$25,000","$100,000"
+15,450,CIN,,Blake Dunn,OF,22,/,"CO
+                    
+                    
+                    Western Michigan","$125,000","$125,000",
+15,451,STL,,Alex Cornwell,P,22,/,"CO
+                    
+                    
+                    Southern California","$125,000","$50,000","$75,000"
+15,452,TOR,,Garrett Spain,OF,20,/,"CO
+                    
+                    
+                    Austin Peay State (TN)","$125,000","$125,000",
+15,453,NYY,,Danny Watson,P,20,/,"CO
+                    
+                    
+                    Virginia Commonwealth","$125,000","$125,000",
+15,454,CHC,,BJ Murray Jr.,3B,21,/,"CO
+                    
+                    
+                    Florida Atlantic","$125,000","$125,000",
+15,455,CHW,,Cameron Butler,OF,18,/,"HS
+                    
+                    
+                    Big Valley Christian HS (CA)","$125,000","$150,000","-$25,000"
+15,456,CLE,,Alaska Abney,P,21,/,"CO
+                    
+                    
+                    Coastal Carolina (SC)","$125,000","$125,000",
+15,457,ATL,,Christian Robinson,OF,21,/,"CO
+                    
+                    
+                    Stanford (CA)","$125,000","$125,000",
+15,458,OAK,,Luke Anderson,P,22,R / R,"CO
+                    
+                    
+                    Central Oklahoma","$125,000","$75,000","$50,000"
+15,459,MIN,,Mikey Perez,SS,21,/,"CO
+                    
+                    
+                    California-Los Angeles","$125,000","$75,000","$50,000"
+15,460,SD,,Anthony Vilar,C,22,/,"CO
+                    
+                    
+                    Miami (FL)","$125,000","$125,000",
+15,461,TB,,Conor Angel,P,21,/,"CO
+                    
+                    
+                    Louisiana-Lafayette","$125,000","$90,000","$35,000"
+15,462,LAD,,Madison Jeffrey,P,21,L / R,"CO
+                    
+                    
+                    West Virginia","$125,000","$125,000",
+16,463,PIT,,Danny Corona,2B,17,/,"HS
+                    
+                    
+                    Baylor HS (TN)","$125,000",Unsigned,
+16,464,TEX,,Ryan Ure,RP,18,R / L,"HS
+                    
+                    
+                    Eaton HS (CO)","$125,000",Unsigned,
+16,465,DET,,Jack Anderson,P,21,/,"CO
+                    
+                    
+                    Florida State","$125,000","$125,000",
+16,466,BOS,,B.J. Vela,2B,21,/,"JC
+                    
+                    
+                    Reedley JC (CA)","$125,000","$122,500","$2,500"
+16,467,BAL,,Peter Van Loon,P,22,R / R,"CO
+                    
+                    
+                    California-Irvine","$125,000","$75,000","$50,000"
+16,468,ARI,,Jacen Roberson,OF,21,L / L,"CO
+                    
+                    
+                    California State-Bakersfield","$125,000","$125,000",
+16,469,KC,,Anthony Simonelli,P,22,/,"CO
+                    
+                    
+                    Virginia Tech","$125,000","$75,000","$50,000"
+16,470,COL,,Braiden Ward,OF,22,/,"CO
+                    
+                    
+                    Washington","$125,000","$125,000",
+16,471,LAA,,Brandon Dufault,P,22,/,"CO
+                    
+                    
+                    Northeastern","$125,000","$125,000",
+16,472,NYM,,Trey McLoughlin,P,22,/,"CO
+                    
+                    
+                    Fairfield","$125,000","$30,000","$95,000"
+16,473,WSH,,Jack Sinclair,P,22,/,"CO
+                    
+                    
+                    Central Florida","$125,000","$100,000","$25,000"
+16,474,SEA,,Jimmy Joyce,P,22,/,"CO
+                    
+                    
+                    Hofstra (NY)","$125,000","$25,000","$100,000"
+16,475,PHI,,Ty Collins,P,19,/,"JC
+                    
+                    
+                    Glendale JC (CA)","$125,000","$135,000","-$10,000"
+16,476,SF,,Julian Bosnic,P,21,/,"CO
+                    
+                    
+                    South Carolina","$125,000",Unsigned,
+16,477,MIL,,Kaylan Nicasia,SS,19,/,"HS
+                    
+                    
+                    Champagnat Catholic HS (FL)","$125,000","$125,000",
+16,478,HOU,,Nic Swanson,P,22,/,"CO
+                    
+                    
+                    Northeastern State","$125,000","$125,000",
+16,479,MIA,,Ivan Melendez,1B,21,/,"CO
+                    
+                    
+                    Texas","$125,000",Unsigned,
+16,480,CIN,,Owen Holt,P,22,/,"JC
+                    
+                    
+                    Alvin JC (TX)","$125,000","$80,000","$45,000"
+16,481,STL,,Aaron McKeithan,C,21,/,"CO
+                    
+                    
+                    North Carolina Charlotte","$125,000","$50,000","$75,000"
+16,482,TOR,,Micah Bucknam,P,17,R / R,"HS
+                    
+                    
+                    Mennonite Educational Institute SS ...","$125,000",Unsigned,
+16,483,NYY,,Cole Ayers,P,21,/,"JC
+                    
+                    
+                    State JC of Florida","$125,000","$125,000",
+16,484,CHC,,Zachary Leigh,P,23,/,"CO
+                    
+                    
+                    Texas State","$125,000","$50,000","$75,000"
+16,485,CHW,,Terrell Tatum,OF,21,/,"CO
+                    
+                    
+                    North Carolina State","$125,000","$125,000",
+16,486,CLE,,Zach Pettway,P,22,/,"CO
+                    
+                    
+                    California-Los Angeles","$125,000","$75,000","$50,000"
+16,487,ATL,,Kris Anglin,P,19,/,"JC
+                    
+                    
+                    Howard JC (TX)","$125,000","$125,000",
+16,488,OAK,,Colton Johnson,P,22,/,"CO
+                    
+                    
+                    Illinois State","$125,000","$10,000","$115,000"
+16,489,MIN,,Johnathan Lavallee,P,21,R / R,"CO
+                    
+                    
+                    California State-Long Beach","$125,000","$75,000","$50,000"
+16,490,SD,,Alek Jacob,P,23,/,"CO
+                    
+                    
+                    Gonzaga (WA)","$125,000","$75,000","$50,000"
+16,491,TB,,Ian Leatherman,P,22,/,"CO
+                    
+                    
+                    Central Michigan","$125,000","$90,000","$35,000"
+16,492,LAD,,Mike Sirota,OF,18,R / R,"HS
+                    
+                    
+                    Gunn HS (CT)","$125,000",Unsigned,
+17,493,PIT,,Carlos Lomeli,P,22,/,"CO
+                    
+                    
+                    St. Mary's College (CA)","$125,000","$25,000","$100,000"
+17,494,TEX,,Michael Alfonso,SS,18,/,"HS
+                    
+                    
+                    Key West HS (FL)","$125,000","$125,000",
+17,495,DET,,Aaron Haase,P,21,/,"CO
+                    
+                    
+                    Wichita State (KS)","$125,000","$125,000",
+17,496,BOS,,Luis Guerrero,P,20,R / R,"JC
+                    
+                    
+                    Chipola JC (FL)","$125,000","$125,000",
+17,497,BAL,,Ryan Long,P,21,/,"CO
+                    
+                    
+                    Pomona-Pitzer","$125,000","$125,000",
+17,498,ARI,,Drake Varnado,OF,18,/,"HS
+                    
+                    
+                    IMG Academy (FL)","$125,000",Unsigned,
+17,499,KC,,Luca Tresh,C,21,/,"CO
+                    
+                    
+                    North Carolina State","$125,000","$423,000","-$298,000"
+17,500,COL,,Jarrod Cande,P,21,/,"CO
+                    
+                    
+                    Florida Southern","$125,000","$125,000",
+17,501,LAA,,Mason Erla,P,23,/,"CO
+                    
+                    
+                    Michigan State","$125,000","$125,000",
+17,502,NYM,,Nick Zwack,P,22,/,"CO
+                    
+                    
+                    Xavier (OH)","$125,000","$50,000","$75,000"
+17,503,WSH,,Brendan Collins,P,21,/,"CO
+                    
+                    
+                    North Carolina Greensboro","$125,000","$100,000","$25,000"
+17,504,SEA,,Jimmy Kingsbury,P,22,/,"CO
+                    
+                    
+                    Villanova (PA)","$125,000","$25,000","$100,000"
+17,505,PHI,,Alex Garbrick,P,23,/,"CO
+                    
+                    
+                    South Carolina-Upstate","$125,000","$30,000","$95,000"
+17,506,SF,,Brett Standlee,P,22,/,"CO
+                    
+                    
+                    Oklahoma State","$125,000","$75,000","$50,000"
+17,507,MIL,,Will Rogers,OF,18,/,"HS
+                    
+                    
+                    Mounds View HS (MN)","$125,000",Unsigned,
+17,508,HOU,,Justin Williams,3B,21,/,"CO
+                    
+                    
+                    Pennsylvania State","$125,000","$125,000",
+17,509,MIA,,Justin Fall,P,22,/,"CO
+                    
+                    
+                    Arizona State","$125,000","$125,000",
+17,510,CIN,,Dennis Boatman,P,21,/,"JC
+                    
+                    
+                    Sacramento JC (CA)","$125,000","$100,000","$25,000"
+17,511,STL,,Elijah Cabell,OF,22,/,"CO
+                    
+                    
+                    Florida State","$125,000","$125,000",
+17,512,TOR,,Cooper Benson,P,20,/,"CO
+                    
+                    
+                    Arizona State","$125,000","$125,000",
+17,513,NYY,,Grant Richardson,OF,22,L / L,"CO
+                    
+                    
+                    Indiana","$125,000","$125,000",
+17,514,CHC,,Christian Olivo,SS,17,/,"HS
+                    
+                    
+                    Leadership Christian Academy (PR)","$125,000","$75,000","$50,000"
+17,515,CHW,,Jayson Gonzalez,3B,22,/,"CO
+                    
+                    
+                    Vanderbilt (TN)","$125,000","$125,000",
+17,516,CLE,,Tyler Thornton,P,21,/,"CO
+                    
+                    
+                    Arizona State","$125,000","$50,000","$75,000"
+17,517,ATL,,Tyler Tolve,C,21,/,"CO
+                    
+                    
+                    Kennesaw State","$125,000","$125,000",
+17,518,OAK,,Kyle Virbitsky,P,22,/,"CO
+                    
+                    
+                    Pennsylvania State","$125,000","$50,000","$75,000"
+17,519,MIN,,Dylan Neuse,2B,22,/,"CO
+                    
+                    
+                    Texas Tech","$125,000","$100,000","$25,000"
+17,520,SD,,Luke Boyd,P,23,/,"CO
+                    
+                    
+                    Baylor (TX)","$125,000","$25,000","$100,000"
+17,521,TB,,Conor Dryer,P,22,/,"CO
+                    
+                    
+                    Central Missouri","$125,000","$30,000","$95,000"
+17,522,LAD,,Adam Tulloch,P,21,/,"CO
+                    
+                    
+                    Arizona State","$125,000",Unsigned,
+18,523,PIT,,A.J. Graham,SS,18,/,"HS
+                    
+                    
+                    Gaither HS (FL)","$125,000","$125,000",
+18,524,TEX,,Kyle Larsen,P,18,/,"HS
+                    
+                    
+                    TNXL Academy (FL)","$125,000","$575,000","-$450,000"
+18,525,DET,,Ben Malgeri,OF,21,/,"CO
+                    
+                    
+                    Northeastern","$125,000","$125,000",
+18,526,BOS,,Phillip Sikes,OF,22,/,"CO
+                    
+                    
+                    Texas Christian","$125,000","$97,500","$27,500"
+18,527,BAL,,Conor Grady,P,22,/,"CO
+                    
+                    
+                    Florida State","$125,000","$50,000","$75,000"
+18,528,ARI,,Joey Spence,1B,18,/,"HS
+                    
+                    
+                    West Bend East HS (WI)","$125,000",Unsigned,
+18,529,KC,,Harrison Beethe,P,23,/,"CO
+                    
+                    
+                    Texas Christian","$125,000","$125,000",
+18,530,COL,,Bryce McGowan,P,21,/,"CO
+                    
+                    
+                    North Carolina Charlotte","$125,000","$300,000","-$175,000"
+18,531,LAA,,Nick Mondak,P,23,/,"CO
+                    
+                    
+                    St. John's (NY)","$125,000","$50,000","$75,000"
+18,532,NYM,,Kolby Kubichek,P,21,/,"CO
+                    
+                    
+                    Texas","$125,000","$125,000",
+18,533,WSH,,Steven Williams,C,22,L / R,"CO
+                    
+                    
+                    Auburn (AL)","$125,000","$100,000","$25,000"
+18,534,SEA,,Riley Davis,P,22,/,"CO
+                    
+                    
+                    Alabama-Birmingham","$125,000","$75,000","$50,000"
+18,535,PHI,,Malik Binns,P,22,/,"CO
+                    
+                    
+                    Benedictine-Mesa (AZ)","$125,000","$125,000",
+18,536,SF,,Hunter Dula,P,22,/,"CO
+                    
+                    
+                    Wingate (NC)","$125,000","$125,000",
+18,537,MIL,,Ryne Moore,P,22,/,"CO
+                    
+                    
+                    Old Dominion (VA)","$125,000","$60,000","$65,000"
+18,538,HOU,,Will Wagner,2B,22,/,"CO
+                    
+                    
+                    Liberty (VA)","$125,000","$50,000","$75,000"
+18,539,MIA,,Bennett Hostetler,SS,23,/,"CO
+                    
+                    
+                    North Dakota State","$125,000","$60,000","$65,000"
+18,540,CIN,,Austin Callahan,3B,20,/,"JC
+                    
+                    
+                    Hutchinson JC (KS)","$125,000","$125,000",
+18,541,STL,,Andrew Marrero,P,21,/,"CO
+                    
+                    
+                    Connecticut","$125,000","$100,000","$25,000"
+18,542,TOR,,Jimmy Burnette,P,22,/,"CO
+                    
+                    
+                    Saint Leo (FL)","$125,000","$50,000","$75,000"
+18,543,NYY,,Bailey Dees,P,22,/,"CO
+                    
+                    
+                    Pennsylvania State","$125,000","$50,000","$75,000"
+18,544,CHC,,Dominic Hambley,P,18,/,"HS
+                    
+                    
+                    Belmont SS (BC)","$125,000","$200,000","-$75,000"
+18,545,CHW,,Adam Hackenberg,C,21,/,"CO
+                    
+                    
+                    Clemson","$125,000","$125,000",
+18,546,CLE,,Tommy Ventimiglia,P,17,R / R,"HS
+                    
+                    
+                    Longwood Prep Academy (NY)","$125,000","$150,000","-$25,000"
+18,547,ATL,,Austin Smith,P,22,/,"CO
+                    
+                    
+                    Arizona","$125,000","$80,000","$45,000"
+18,548,OAK,,Mariano Ricciardi,2B,23,/,"CO
+                    
+                    
+                    Dayton (OH)","$125,000","$10,000","$115,000"
+18,549,MIN,,Mike Paredes,P,20,/,"CO
+                    
+                    
+                    San Diego State (CA)","$125,000","$75,000","$50,000"
+18,550,SD,,Gage Jump,P,18,L / L,"HS
+                    
+                    
+                    JSerra Catholic HS (CA)","$125,000",Unsigned,
+18,551,TB,,Kenny Piper,C,23,/,"CO
+                    
+                    
+                    Columbia (NY)","$125,000","$25,000","$100,000"
+18,552,LAD,,Damon Keith,OF,21,/,"CO
+                    
+                    
+                    California Baptist","$125,000","$125,000",
+19,553,PIT,,Drew Irvine,P,21,/,"CO
+                    
+                    
+                    Iowa","$125,000","$100,000","$25,000"
+19,554,TEX,,Will Taylor,OF,18,R / R,"HS
+                    
+                    
+                    Dutch Fork HS (SC)","$125,000",Unsigned,
+19,555,DET,,Justice Bigbie,1B,22,/,"CO
+                    
+                    
+                    Western Carolina (NC)","$125,000","$100,000","$25,000"
+19,556,BOS,,Tyler Uberstine,P,22,/,"CO
+                    
+                    
+                    Northwestern","$125,000","$97,500","$27,500"
+19,557,BAL,,Alex Pham,P,21,/,San Francisco,"$125,000","$25,000","$100,000"
+19,558,ARI,,Eric Hammond,P,18,/,"HS
+                    
+                    
+                    Keller HS (TX)","$125,000",Unsigned,
+19,559,KC,,Cam Williams,3B,23,S / R,"CO
+                    
+                    
+                    Texas","$125,000","$20,000","$105,000"
+19,560,COL,,Elijah Trest,RP,21,/,"CO
+                    
+                    
+                    Arkansas","$125,000",Unsigned,
+19,561,LAA,,Nathan Burns,P,22,/,"CO
+                    
+                    
+                    Oregon State","$125,000","$50,000","$75,000"
+19,562,NYM,,Drake Osborn,C,22,/,"CO
+                    
+                    
+                    Louisiana-Lafayette","$125,000","$30,000","$95,000"
+19,563,WSH,,Riggs Threadgill,P,21,/,"JC
+                    
+                    
+                    McLennan JC (TX)","$125,000","$125,000",
+19,564,SEA,,Charlie Welch,C,21,/,"CO
+                    
+                    
+                    Arkansas","$125,000","$125,000",
+19,565,PHI,,Seth Halvorsen,P,21,R / R,Missouri,"$125,000",Unsigned,
+19,566,SF,,Irvin Murr III,3B,18,/,"HS
+                    
+                    
+                    Winter Springs HS (FL)","$125,000","$125,000",
+19,567,MIL,,Carter Holton,SP,18,L / L,"HS
+                    
+                    
+                    Benedictine Military School (GA)","$125,000",Unsigned,
+19,568,HOU,,Hector Nieves,SS,18,/,"HS
+                    
+                    
+                    Puerto Rico Baseball Academy (PR)","$125,000","$180,000","-$55,000"
+19,569,MIA,,Noah Williamson,OF,20,/,"JC
+                    
+                    
+                    Everett JC (WA)","$125,000","$75,000","$50,000"
+19,570,CIN,,Ryan Cardona,P,21,/,"CO
+                    
+                    
+                    Marist (NY)","$125,000","$110,000","$15,000"
+19,571,STL,,Thomas Francisco,1B,22,/,"CO
+                    
+                    
+                    East Carolina (NC)","$125,000","$100,000","$25,000"
+19,572,TOR,,Juan Gonzalez,C,20,/,"JC
+                    
+                    
+                    Miami Dade JC (FL)","$125,000","$100,000","$25,000"
+19,573,NYY,,Dominic Keegan,1B,20,/,"CO
+                    
+                    
+                    Vanderbilt (TN)","$125,000",Unsigned,
+19,574,CHC,,Daniel Avitia,SP,18,R / R,"HS
+                    
+                    
+                    Alhambra HS (AZ)","$125,000",Unsigned,
+19,575,CHW,,Shawn Goosenberg,SS,21,/,"CO
+                    
+                    
+                    Northwestern","$125,000","$125,000",
+19,576,CLE,,Reid Johnston,P,22,/,"CO
+                    
+                    
+                    North Carolina State","$125,000","$75,000","$50,000"
+19,577,ATL,,Samuel Strickland,P,22,/,"CO
+                    
+                    
+                    Samford (AL)","$125,000","$100,000","$25,000"
+19,578,OAK,,Blake Beers,P,23,/,"CO
+                    
+                    
+                    Michigan","$125,000","$40,000","$85,000"
+19,579,MIN,,Jaylen Nowlin,P,20,/,"JC
+                    
+                    
+                    Chipola JC (FL)","$125,000","$160,000","-$35,000"
+19,580,SD,,Gabriel Rincones Jr.,RF,20,/,"JC
+                    
+                    
+                    St. Petersburg JC (FL)","$125,000",Unsigned,
+19,581,TB,,Sean Hunley,P,22,/,"CO
+                    
+                    
+                    Tennessee","$125,000","$25,000","$100,000"
+19,582,LAD,,Gabe Emmett,P,20,/,"JC
+                    
+                    
+                    Folsom Lake JC (CA)","$125,000","$125,000",
+20,583,PIT,,Brenden Dixon,SS,20,/,"JC
+                    
+                    
+                    Weatherford JC (TX)","$125,000","$125,000",
+20,584,TEX,,Joesph Montalvo,RP,19,/,"HS
+                    
+                    
+                    Central Pointe Christian Academy (F...","$125,000","$125,000",
+20,585,DET,,J.D. McLaughlin,OF,20,/,"JC
+                    
+                    
+                    Central Arizona JC","$125,000","$125,000",
+20,586,BOS,,Josh Hood,SS,20,/,"CO
+                    
+                    
+                    North Carolina State","$125,000",Unsigned,
+20,587,BAL,,Trendon Craig,OF,21,/,"JC
+                    
+                    
+                    Louisburg JC (NC)","$125,000","$250,000","-$125,000"
+20,588,ARI,,Ross Carver,P,21,R / R,"CO
+                    
+                    
+                    Dallas Baptist","$125,000","$50,000","$75,000"
+20,589,KC,,Jack Aldrich,P,22,/,"CO
+                    
+                    
+                    Tulane (LA)","$125,000","$125,000",
+20,590,COL,,Tyler Ahearn,P,22,/,"CO
+                    
+                    
+                    Florida State","$125,000","$75,000","$50,000"
+20,591,LAA,,Marcelo Perez,P,21,/,"CO
+                    
+                    
+                    Texas Christian","$125,000",Unsigned,
+20,592,NYM,,Justin Guerrera,SS,21,/,"CO
+                    
+                    
+                    Fairfield (CT)","$125,000","$75,000","$50,000"
+20,593,WSH,,Elie Kligman,C,18,/,"HS
+                    
+                    
+                    Cimarron-Memorial HS (NV)","$125,000",Unsigned,
+20,594,SEA,,Troy Taylor,P,19,/,"JC
+                    
+                    
+                    Cypress JC (CA)","$125,000",Unsigned,
+20,595,PHI,,Cam Wynne,P,22,/,"CO
+                    
+                    
+                    Nebraska-Lincoln","$125,000","$50,000","$75,000"
+20,596,SF,,Vance Honeycutt,CF,18,R / R,"HS
+                    
+                    
+                    Salisbury HS (NC)","$125,000",Unsigned,
+20,597,MIL,,Samuel Mendez,P,28,/,"JC
+                    
+                    
+                    Cisco JC (TX)","$125,000",Unsigned,
+20,598,HOU,,Jackson Linn,OF,18,/,"HS
+                    
+                    
+                    Cambridge Rindge & Latin HS (MA)","$125,000",Unsigned,
+20,599,MIA,,Zach Zubia,1B,23,/,"CO
+                    
+                    
+                    Texas","$125,000","$25,000","$100,000"
+20,600,CIN,,Javier Rivera,P,21,/,"CO
+                    
+                    
+                    Florida Atlantic","$125,000","$125,000",
+20,601,STL,,Xavier Casserilla,3B,18,/,"HS
+                    
+                    
+                    Eaton HS (TX)","$125,000",Unsigned,
+20,602,TOR,,Luke Holman,P,18,R / R,"HS
+                    
+                    
+                    Wilson HS (PA)","$125,000",Unsigned,
+20,603,NYY,,Sean Hard,P,18,/,"HS
+                    
+                    
+                    St. Joseph Regional HS (NJ)","$125,000",Unsigned,
+20,604,CHC,,Wilson Cunningham,P,18,/,"HS
+                    
+                    
+                    JSerra Catholic HS (CA)","$125,000","$10,000","$115,000"
+20,605,CHW,,Haylen Green,P,23,/,"CO
+                    
+                    
+                    Texas Christian","$125,000","$20,000","$105,000"
+20,606,CLE,,Jake Miller,P,21,/,"CO
+                    
+                    
+                    San Diego (CA)","$125,000","$300,000","-$175,000"
+20,607,ATL,,Ty Evans,OF,18,/,"HS
+                    
+                    
+                    Lakeland Christian HS (FL)","$125,000",Unsigned,
+20,608,OAK,,Hunter Breault,P,22,/,"CO
+                    
+                    
+                    Oregon","$125,000","$35,000","$90,000"
+20,609,MIN,,Dillon Tatum,C,21,/,"CO
+                    
+                    
+                    California-Irvine","$125,000","$25,000","$100,000"
+20,610,SD,,Chase Burns,P,18,R / R,"HS
+                    
+                    
+                    Beech HS (TN)","$125,000",Unsigned,
+20,611,TB,,Kamron Fields,P,22,/,"CO
+                    
+                    
+                    Texas Southern","$125,000","$25,000","$100,000"
+20,612,LAD,,Charlie Connolly,SP,22,/,"CO
+                    
+                    
+                    Navy (MD)","$125,000",Unsigned,
