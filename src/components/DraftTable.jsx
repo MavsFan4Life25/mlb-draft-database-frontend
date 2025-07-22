@@ -184,7 +184,8 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
               <th>Team</th>
               <th>Position</th>
               <th>Age</th>
-              <th>Bat/Throw</th>
+              <th>Bat</th>
+              <th>Throw</th>
               <th>Pre-Draft Team</th>
               <th>Slotted Bonus</th>
               <th>Signed Bonus</th>
@@ -202,13 +203,8 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
                 <td>{row.TeamDrafted}</td>
                 <td>{row.Position}</td>
                 <td>{row.AgeAtDraft}</td>
-                <td>
-                  {row.Bat && row.Throw
-                    ? `${row.Bat}/${row.Throw}`
-                    : row["B/T"] && row["B/T"].trim() && row["B/T"].replace(/\s+/g, "") !== "/"
-                      ? row["B/T"].replace(/\s+/g, "")
-                      : ""}
-                </td>
+                <td>{row.Bat || ""}</td>
+                <td>{row.Throw || ""}</td>
                 <td>{row.School && row.School.includes("HS") ? "HS" : row.School}</td>
                 <td>{row.SlottedBonus}</td>
                 <td style={{ color: row.SignedBonus === "(unsigned)" ? "#fff" : "#fff" }}>{row.SignedBonus}</td>
