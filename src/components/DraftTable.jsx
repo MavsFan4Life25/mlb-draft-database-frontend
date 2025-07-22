@@ -17,14 +17,14 @@ function getUnique(data, key) {
 }
 
 function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRangeFilters }) {
-  // School dropdown: group all high schools as 'HS', others as themselves
+  // School dropdown: group all high schools as 'HS', others as themselves, then sort alphabetically
   const schoolOptions = [
     ...new Set(
       data
         .map((row) => (row.School && row.School.includes("HS") ? "HS" : row.School))
         .filter((v) => v && v !== "")
     ),
-  ];
+  ].sort((a, b) => a.localeCompare(b));
 
   return (
     <div>
@@ -105,7 +105,7 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
             <option key={v} value={v}>{v}</option>
           ))}
         </select>
-        {/* Pre-Draft Team dropdown with HS grouping */}
+        {/* Pre-Draft Team dropdown with HS grouping, sorted */}
         <select value={filters.school} onChange={(e) => setFilters((f) => ({ ...f, school: e.target.value }))}>
           <option value="">Pre-Draft Team</option>
           {schoolOptions.map((v) => (
@@ -188,7 +188,13 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
                 <td>{row.TeamDrafted}</td>
                 <td>{row.Position}</td>
                 <td>{row.AgeAtDraft}</td>
-                <td>{row.Bat}/{row.Throw}</td>
+                <td>
+                  {row.Bat && row.Throw && row.Bat.trim() && row.Throw.trim()
+                    ? `${row.Bat}/${row.Throw}`
+                    : (row["B/T"] && row["B/T"].trim() && row["B/T"].trim() !== "/"
+                        ? row["B/T"].replace(/\s+/g, "")
+                        : "")}
+                </td>
                 <td>{row.School && row.School.includes("HS") ? "HS" : row.School}</td>
                 <td>{row.SlottedBonus}</td>
                 <td style={{ color: row.SignedBonus === "(unsigned)" ? "#fff" : "#fff" }}>{row.SignedBonus}</td>
