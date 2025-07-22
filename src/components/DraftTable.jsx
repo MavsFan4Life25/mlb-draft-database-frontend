@@ -1,4 +1,3 @@
-
 import React from "react";
 
 // Helper for color-coding the Diff column
@@ -189,7 +188,11 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
                 <td>{row.TeamDrafted}</td>
                 <td>{row.Position}</td>
                 <td>{row.AgeAtDraft}</td>
-                <td>{JSON.stringify(row)}</td>
+                <td>
+                  {row.BatThrow && row.BatThrow.trim() && row.BatThrow.trim() !== "/"
+                    ? row.BatThrow.replace(/\s+/g, "")
+                    : ""}
+                </td>
                 <td>{row.School && row.School.includes("HS") ? "HS" : row.School}</td>
                 <td>{row.SlottedBonus}</td>
                 <td style={{ color: row.SignedBonus === "(unsigned)" ? "#fff" : "#fff" }}>{row.SignedBonus}</td>
