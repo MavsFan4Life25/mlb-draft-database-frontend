@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 
 // Helper for color-coding the Diff column
 function getDiffColor(diff) {
@@ -27,6 +27,43 @@ const OF_GROUP = ["OF", "CF", "RF", "LF"];
 const P_GROUP = ["P", "SP", "SP1", "RP"];
 
 function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRangeFilters }) {
+  const [sortConfig, setSortConfig] = useState({ key: null, direction: 'asc' });
+
+  // Sorting function
+  const sortData = (data, key, direction) => {
+    if (!key) return data;
+    
+    return [...data].sort((a, b) => {
+      let aVal = a[key];
+      let bVal = b[key];
+      
+      // Handle numeric values
+      if (!isNaN(aVal) && !isNaN(bVal)) {
+        aVal = parseFloat(aVal);
+        bVal = parseFloat(bVal);
+      }
+      
+      // Handle empty values
+      if (!aVal && aVal !== 0) aVal = '';
+      if (!bVal && bVal !== 0) bVal = '';
+      
+      if (aVal < bVal) return direction === 'asc' ? -1 : 1;
+      if (aVal > bVal) return direction === 'asc' ? 1 : -1;
+      return 0;
+    });
+  };
+
+  // Handle sort click
+  const handleSort = (key) => {
+    let direction = 'asc';
+    if (sortConfig.key === key && sortConfig.direction === 'asc') {
+      direction = 'desc';
+    }
+    setSortConfig({ key, direction });
+  };
+
+  // Get sorted data
+  const sortedData = sortData(filtered, sortConfig.key, sortConfig.direction);
   const schoolOptions = [
     ...new Set(
       data
@@ -180,24 +217,89 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
         <table style={{ width: "100%", background: "#111", color: "#fff", borderCollapse: "collapse" }}>
           <thead>
             <tr>
-              <th>Year</th>
-              <th>Round</th>
-              <th>Pick</th>
+              <th 
+                onClick={() => handleSort('Year')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Year {sortConfig.key === 'Year' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                onClick={() => handleSort('Round')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Round {sortConfig.key === 'Round' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                onClick={() => handleSort('Pick')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Pick {sortConfig.key === 'Pick' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
               <th>Round/Pick</th>
-              <th>Name</th>
-              <th>Team</th>
-              <th>Position</th>
-              <th>Age</th>
-              <th>Bat</th>
-              <th>Throw</th>
-              <th>Pre-Draft Team</th>
-              <th>Slotted Bonus</th>
-              <th>Signed Bonus</th>
-              <th>+/- Diff</th>
+              <th 
+                onClick={() => handleSort('Name')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Name {sortConfig.key === 'Name' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                onClick={() => handleSort('TeamDrafted')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Team {sortConfig.key === 'TeamDrafted' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                onClick={() => handleSort('Position')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Position {sortConfig.key === 'Position' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                onClick={() => handleSort('AgeAtDraft')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Age {sortConfig.key === 'AgeAtDraft' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                onClick={() => handleSort('Bat')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Bat {sortConfig.key === 'Bat' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                onClick={() => handleSort('Throw')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Throw {sortConfig.key === 'Throw' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                onClick={() => handleSort('School')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Pre-Draft Team {sortConfig.key === 'School' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                onClick={() => handleSort('SlottedBonus')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Slotted Bonus {sortConfig.key === 'SlottedBonus' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                onClick={() => handleSort('SignedBonus')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                Signed Bonus {sortConfig.key === 'SignedBonus' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
+              <th 
+                onClick={() => handleSort('Diff')}
+                style={{ cursor: 'pointer', userSelect: 'none' }}
+              >
+                +/- Diff {sortConfig.key === 'Diff' && (sortConfig.direction === 'asc' ? '↑' : '↓')}
+              </th>
             </tr>
           </thead>
           <tbody>
-            {filtered.map((row, i) => (
+            {sortedData.map((row, i) => (
               <tr key={i}>
                 <td>{row.Year}</td>
                 <td>{row.Round}</td>
