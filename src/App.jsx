@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import DraftTable from "./components/DraftTable";
 import StatsBar from "./components/StatsBar";
+import BonusChart from "./components/BonusChart";
 import Papa from "papaparse";
 import "./App.css";
 
@@ -129,6 +130,7 @@ function App() {
       </header>
       <main style={{ maxWidth: 1200, margin: "0 auto", padding: "1rem" }}>
         <StatsBar data={filtered} />
+        <BonusChart data={filtered} />
         <DraftTable
           data={data}
           filtered={filtered}
