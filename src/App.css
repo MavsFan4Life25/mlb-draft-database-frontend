@@ -1,8 +1,47 @@
 #root {
-  max-width: 1280px;
+  max-width: 1400px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1.5rem;
   text-align: center;
+}
+
+/* Typography improvements */
+.App {
+  font-family: inherit;
+}
+
+/* Table typography */
+table {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  letter-spacing: 0.01em;
+}
+
+th {
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 1rem 0.75rem;
+}
+
+td {
+  padding: 0.75rem;
+  font-weight: 400;
+}
+
+/* Filter typography */
+select, input {
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+/* Stats typography */
+.stats-container {
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 .logo {

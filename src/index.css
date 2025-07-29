@@ -1,16 +1,19 @@
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
+  /* Modern, readable font stack */
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  line-height: 1.6;
   font-weight: 400;
+  font-size: 16px;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color: rgba(255, 255, 255, 0.95);
+  background-color: #0a0a0a;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.01em;
 }
 
 a {
@@ -31,20 +34,39 @@ body {
 }
 
 h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+  font-size: 2.8rem;
+  line-height: 1.2;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 0.5rem 0;
+}
+
+h2 {
+  font-size: 1.8rem;
+  line-height: 1.3;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 0 0 1rem 0;
+}
+
+h3 {
+  font-size: 1.4rem;
+  line-height: 1.4;
+  font-weight: 600;
+  margin: 0 0 0.75rem 0;
 }
 
 button {
   border-radius: 8px;
   border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
+  padding: 0.75rem 1.5rem;
+  font-size: 0.95rem;
   font-weight: 500;
   font-family: inherit;
   background-color: #1a1a1a;
   cursor: pointer;
-  transition: border-color 0.25s;
+  transition: all 0.2s ease;
+  letter-spacing: 0.01em;
 }
 button:hover {
   border-color: #646cff;
