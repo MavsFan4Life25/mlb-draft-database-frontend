@@ -59,12 +59,26 @@ for idx, row in combined.iterrows():
     # Robust Bat/Throw splitting
     bt = str(row['B/T']) if 'B/T' in row else ''
     bat, throw = '', ''
-    if '/' in bt:
-        parts = [x.strip().upper() for x in bt.split('/')]
+    
+    # Clean and standardize the B/T value
+    bt_clean = bt.strip().upper()
+    
+    if '/' in bt_clean:
+        # Handle standard format like "L/R" or "S/R"
+        parts = [x.strip().upper() for x in bt_clean.split('/')]
         if len(parts) > 0 and parts[0] in ['L', 'R', 'S']:
             bat = parts[0]
         if len(parts) > 1 and parts[1] in ['L', 'R']:
             throw = parts[1]
+    else:
+        # Handle single letter cases
+        if bt_clean in ['L', 'R', 'S']:
+            bat = bt_clean
+            # For single letters, assume same for throw, except S becomes R for throw
+            if bt_clean == 'S':
+                throw = 'R'  # S becomes S/R
+            else:
+                throw = bt_clean  # L becomes L/L, R becomes R/R
 
     signed_bonus = str(row['Signed Bonus']) if 'Signed Bonus' in row else ''
     if '(unsigned)' in signed_bonus.lower():
