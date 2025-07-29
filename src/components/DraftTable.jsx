@@ -12,7 +12,13 @@ function getDiffColor(diff) {
 // Helper to get unique values for dropdowns
 function getUnique(data, key) {
   return Array.from(new Set(data.map((row) => row[key]).filter((v) => v && v !== ""))).sort(
-    (a, b) => (isNaN(a) ? a.localeCompare(b) : a - b)
+    (a, b) => {
+      if (isNaN(a)) return a.localeCompare(b);
+      // For years, sort in descending order (newest first)
+      if (key === "Year") return b - a;
+      // For other numeric values, sort in ascending order
+      return a - b;
+    }
   );
 }
 
