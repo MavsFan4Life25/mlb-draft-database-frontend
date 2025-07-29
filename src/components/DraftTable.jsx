@@ -211,6 +211,54 @@ function DraftTable({ data, filtered, setFilters, filters, rangeFilters, setRang
           onChange={(e) => setFilters((f) => ({ ...f, search: e.target.value }))}
           style={{ flex: 1, minWidth: 180 }}
         />
+        <button
+          onClick={() => {
+            setFilters({
+              year: "",
+              round: "",
+              pick: "",
+              team: "",
+              position: "",
+              school: "",
+              bat: "",
+              throw: "",
+              age: "",
+              search: "",
+            });
+            setRangeFilters({
+              yearFrom: "",
+              yearTo: "",
+              roundFrom: "",
+              roundTo: "",
+              pickFrom: "",
+              pickTo: "",
+              ageFrom: "",
+              ageTo: "",
+            });
+          }}
+          style={{
+            background: '#dc3545',
+            color: '#fff',
+            border: '1px solid #dc3545',
+            padding: '0.75rem 1.5rem',
+            borderRadius: '8px',
+            cursor: 'pointer',
+            fontSize: '0.9rem',
+            fontWeight: '500',
+            transition: 'all 0.2s ease',
+            whiteSpace: 'nowrap'
+          }}
+          onMouseEnter={(e) => {
+            e.target.style.background = '#c82333';
+            e.target.style.borderColor = '#c82333';
+          }}
+          onMouseLeave={(e) => {
+            e.target.style.background = '#dc3545';
+            e.target.style.borderColor = '#dc3545';
+          }}
+        >
+          🗑️ Clear All Filters
+        </button>
       </div>
       {/* Table */}
       <div style={{ overflowX: "auto" }}>
