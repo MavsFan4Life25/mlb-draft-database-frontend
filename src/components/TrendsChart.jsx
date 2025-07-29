@@ -46,7 +46,7 @@ function TrendsChart({ data }) {
         'rgba(199, 199, 199, 0.8)',
       ][index];
 
-      const data = years.map(year => {
+      const positionData = years.map(year => {
         return data.filter(player => 
           player.Year === year && 
           (player.Position === pos || 
@@ -57,7 +57,7 @@ function TrendsChart({ data }) {
 
       return {
         label: pos,
-        data: data,
+        data: positionData,
         backgroundColor: color,
         borderColor: color.replace('0.8', '1'),
         borderWidth: 2,
